@@ -23,7 +23,9 @@ body:
     id: score
     attributes:
       label: Score
+      description: "Choose a score from 1–5 / 请选择评分；未选择数字的评论不会计入。"
       options:
+        - "Select a score / 请选择评分"
         - "1 — Not useful"
         - "2 — A little useful"
         - "3 — Good"
@@ -36,6 +38,7 @@ body:
     attributes:
       label: What should we change?
       options:
+        - "Select a preference / 请选择"
         - More like this
         - Keep the mix
         - Less like this
