@@ -1,10 +1,10 @@
-import importlib.util
 import sys
 import unittest
 import json
 import shutil
 import tempfile
-from datetime import date
+from datetime import date, datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from unittest.mock import patch
 
@@ -22,8 +22,8 @@ class PipelineTests(unittest.TestCase):
         reviews=g.parse_reviews([new,old],['Friend'],self.editions)
         self.assertEqual(len(reviews),1)
         self.assertEqual(reviews[0]['score'],2)
-    def test_unknown_author_story_and_invalid_score_are_not_feedback(self):
-        issues=[self.issue(author='stranger'),self.issue(story='missing'),self.issue(score='50 stars')]
+    def test_unknown_author_and_story_are_not_feedback_in_trusted_mode(self):
+        issues=[self.issue(author='stranger'),self.issue(story='missing')]
         self.assertEqual(g.parse_reviews(issues,['friend'],self.editions),[])
     def test_whole_edition_review_and_empty_comment(self):
         issue=self.issue(story='edition');issue['body']=issue['body'].replace('More local clubs, please.','_No response_')
@@ -46,40 +46,49 @@ class PipelineTests(unittest.TestCase):
         base={'title_zh':'标题','summary_zh':'摘要','why_zh':'理由','source_language':'en','source_type':'reporting','title':'Useful background','summary':'Context.','why':'Useful.','category':'Community','source':'Source','published_at':None,'url':'https://example.com/context'}
         self.assertEqual(g.checked_stories([{**base,'kind':'news'}],{base['url']},set(),date(2026,11,9),30),[])
         self.assertEqual(len(g.checked_stories([{**base,'kind':'evergreen'}],{base['url']},set(),date(2026,11,9),30)),1)
-    def test_incomplete_ai_result_cannot_be_published(self):
-        with self.assertRaises(ValueError):g.text_output({'status':'incomplete','output':[]})
-    def test_missing_api_key_does_not_modify_files(self):
-        with patch.dict(g.os.environ,{},clear=True),patch.object(g,'write') as write:
-            with self.assertRaises(RuntimeError):g.generate({'repository':'owner/repo'})
-            write.assert_not_called()
-    def test_full_generation_preserves_archive_and_caps_community_posts(self):
+    def test_comments_only_from_any_github_user_in_open_pilot(self):
+        issue=self.issue(author='new-friend',score='Select a score / 请选择评分')
+        issue['body']=issue['body'].replace('More like this','Select a preference / 请选择')
+        reviews=g.parse_reviews([issue],None,self.editions)
+        self.assertEqual(len(reviews),1)
+        self.assertIsNone(reviews[0]['score'])
+        self.assertIsNone(reviews[0]['direction'])
+        self.assertEqual(reviews[0]['comment'],'More local clubs, please.')
+    def test_empty_placeholder_review_is_not_counted(self):
+        issue=self.issue(score='Select a score')
+        issue['body']=issue['body'].replace('More like this','Select a preference').replace('More local clubs, please.','_No response_')
+        self.assertEqual(g.parse_reviews([issue],None,self.editions),[])
+    def draft(self):
         config=g.load('config.json')
+        today=str(datetime.now(ZoneInfo(config['timezone'])).date())
         story={'title':'New story','title_zh':'新的故事','summary':'A source-grounded summary.',
                'summary_zh':'有来源的摘要。','why':'Useful context.','why_zh':'实用背景。',
-               'category':'Community','source':'Author','source_language':'zh','source_type':'social',
-               'kind':'evergreen','published_at':None}
-        candidates=[{**story,'url':f'https://example.com/post/{n}'} for n in range(4)]
-        research={'status':'completed','output':[{'type':'web_search_call','action':{'sources':[{'url':s['url']} for s in candidates]}},
-                   {'type':'message','content':[{'type':'output_text','text':'Source-grounded research.'}]}]}
-        formatted={'status':'completed','output':[{'type':'message','content':[{'type':'output_text','text':json.dumps({
-            'guidance':['Explore local clubs.'],'feedback_note':'No reviews yet.','feedback_note_zh':'暂无评论。','stories':candidates})}]}]}
+               'category':'Community','source':'Author','source_language':'zh','source_type':'reporting',
+               'kind':'evergreen','published_at':None,'url':'https://example.com/new-story'}
+        return {'date':today,'feedback_note':'No feedback yet.','feedback_note_zh':'暂无评论。','guidance':[],
+                'review_count':0,'stories':[story],
+                'sources':[{'url':story['url'],'checked_at':today,'notes':'Read the full original source.'}]}
+    def test_codex_draft_publishes_without_api_key_and_preserves_archive(self):
+        config=g.load('config.json');draft=self.draft();old_index=g.load('data/index.json')
         with tempfile.TemporaryDirectory() as directory:
-            root=Path(directory)
-            shutil.copytree(g.ROOT/'data',root/'data')
-            shutil.copy2(g.ROOT/'config.json',root/'config.json')
-            old_index=g.load('data/index.json')
-            with patch.object(g,'ROOT',root),patch.object(g,'fetch_reviews',return_value=[]),patch.object(g,'request_json',side_effect=[research,formatted]),patch.dict(g.os.environ,{'OPENAI_API_KEY':'test-only'}):
-                g.generate(config)
+            root=Path(directory);shutil.copytree(g.ROOT/'data',root/'data');shutil.copy2(g.ROOT/'config.json',root/'config.json')
+            with patch.object(g,'ROOT',root),patch.dict(g.os.environ,{},clear=True):
+                g.publish_draft(draft,config)
                 index=g.load('data/index.json')
                 self.assertEqual(index['editions'][1:],old_index['editions'])
                 edition=g.load('data/editions/'+index['editions'][0]+'.json')
-                self.assertEqual(len(edition['stories']),2)
-                self.assertEqual(edition['feedback_note_zh'],'暂无评论。')
+                self.assertEqual(edition['research_method'],'codex')
                 g.validate_site()
-    def test_research_failure_leaves_published_files_untouched(self):
-        config=g.load('config.json')
-        with patch.object(g,'fetch_reviews',return_value=[]),patch.object(g,'request_json',side_effect=RuntimeError('provider down')),patch.object(g,'write') as write,patch.dict(g.os.environ,{'OPENAI_API_KEY':'test-only'}):
-            with self.assertRaises(RuntimeError):g.generate(config)
+    def test_bad_draft_cannot_modify_publication(self):
+        draft=self.draft();draft['sources'][0]['url']='https://example.com/unrelated'
+        with patch.object(g,'write') as write:
+            with self.assertRaises(ValueError):g.publish_draft(draft,g.load('config.json'))
+            write.assert_not_called()
+    def test_republishing_same_story_is_rejected(self):
+        draft=self.draft();config=g.load('config.json');existing=g.load('data/editions/'+g.load('data/index.json')['editions'][0]+'.json')['stories'][0]['url']
+        draft['stories'][0]['url']=existing;draft['sources'][0]['url']=existing
+        with patch.object(g,'write') as write:
+            with self.assertRaises(ValueError):g.publish_draft(draft,config)
             write.assert_not_called()
     def test_social_homepage_is_not_a_story(self):
         s={'url':'https://example.com/','category':'Community','kind':'evergreen','source_type':'social','source_language':'en'}

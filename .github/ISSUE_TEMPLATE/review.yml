@@ -1,10 +1,10 @@
-name: Review a Rally story
-description: Score a story / 评分与评论，帮助改进下一期精选。
+name: Share feedback on Rally
+description: Leave a comment, with optional score / 留言即可，评分为可选项。
 title: "[Review] "
 body:
   - type: markdown
     attributes:
-      value: "Thank you for helping shape Rally. This review is public. Edit this issue later to update your score or comment."
+      value: "Leave a comment in English or Chinese. Scores and preferences are optional. This feedback is public. / 欢迎中英文留言，评分与偏好均可不填。留言公开可见。"
   - type: input
     id: edition
     attributes:
@@ -23,7 +23,7 @@ body:
     id: score
     attributes:
       label: Score
-      description: "Choose a score from 1–5 / 请选择评分；未选择数字的评论不会计入。"
+      description: "Optional: choose 1–5 / 可选评分；仅留言也会被考虑。"
       options:
         - "Select a score / 请选择评分"
         - "1 — Not useful"
@@ -32,7 +32,7 @@ body:
         - "4 — Very good"
         - "5 — Excellent"
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: direction
     attributes:
@@ -45,10 +45,12 @@ body:
         - Already seen / repetitive
         - Check the facts or source
     validations:
-      required: true
+      required: false
   - type: textarea
     id: comment
     attributes:
       label: Your thoughts
       description: English or Chinese welcome / 欢迎用中文或英文评论。你喜欢什么？下一期希望看到什么？也欢迎纠错和提供来源链接。
       placeholder: "For example: More affordable court fashion and women-led club stories."
+    validations:
+      required: true

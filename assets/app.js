@@ -18,7 +18,7 @@ function reviewURL(story) {
 function link(url, label, cls = 'textbtn') { return `<a class="${cls}" href="${escape(safeURL(url))}" target="_blank" rel="noopener noreferrer">${escape(label)}</a>`; }
 function visual(s) { return art(s.category === 'Style' ? 'style' : s.category === 'Community' ? 'people' : s.category === 'Trends' ? 'trend' : 'club'); }
 function metadata(s) { return `${escape(s.source)} · ${s.published_at ? escape(s.published_at) : (language === 'zh' ? '发布日期未注明' : 'Publication date not stated')} · ${s.kind === 'evergreen' ? (language === 'zh' ? '背景阅读' : 'EVERGREEN') : (language === 'zh' ? '新闻' : 'NEWS')}`; }
-function actions(s) { return `<div class="actions">${link(s.url, language === 'zh' ? '阅读原文 ↗' : 'Read the original ↗')}${link(reviewURL(s), language === 'zh' ? '评分与评论 ↗' : 'Rate & comment ↗', 'review-link')}</div>`; }
+function actions(s) { return `<div class="actions">${link(s.url, language === 'zh' ? '阅读原文 ↗' : 'Read the original ↗')}${link(reviewURL(s), language === 'zh' ? '留言反馈 ↗' : 'Leave feedback ↗', 'review-link')}</div>`; }
 function matches(s, q) { return (filter === 'All' || s.category === filter) && `${s.title} ${s.summary} ${s.title_zh || ""} ${s.summary_zh || ""} ${s.category} ${s.source}`.toLowerCase().includes(q); }
 function renderEdition() {
   $('#edition-meta').textContent = `${edition.stories.length} reads · ${edition.date}`;
@@ -61,8 +61,8 @@ async function init() {
     $('#edition-select').innerHTML = editions.map(e => `<option value="${escape(e.id)}">${escape(e.date)}${e.seed ? ' · Founding edit' : ''}</option>`).join('');
     if(validRepo(config.repository)) {
       $('#all-reviews').href = `https://github.com/${config.repository}/issues?q=${encodeURIComponent('is:issue "[Review]" in:title')}`;
-      $('#run-workflow').href = `https://github.com/${config.repository}/actions/workflows/edition.yml`;
-      $('#setup-note').textContent = 'Reviewing uses your GitHub account. Only the repository owner and configured trusted reviewers inform the automated search. The owner can run the workflow manually; no daily approval is required.';
+      $('#run-workflow').href = `https://github.com/${config.repository}#daily-publication`;
+      $('#setup-note').textContent = 'Reviewing uses your GitHub account. In this pilot, comments from any GitHub user inform the next edition; scores and preferences are optional. Codex prepares each edition on the local computer; GitHub publishes the saved files automatically.';
     } else $('#setup-note').textContent = 'Local preview: set the repository in config.json and deploy to activate GitHub review links. No feedback is submitted from this preview.';
     renderEdition();
     showPage(location.hash === '#library' ? 'library' : location.hash === '#process' ? 'process' : 'edition');

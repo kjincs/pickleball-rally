@@ -1,77 +1,91 @@
 # Rally · Pickleball culture, shaped by people
 
-A GitHub Pages publication for women who play pickleball. Readers browse concise, source-linked stories. Invited reviewers use GitHub Issue Forms to score stories, select preferences, and comment. A daily GitHub Actions workflow researches and publishes the next edition using that feedback.
+**Live website:** https://kjincs.github.io/pickleball-rally/
 
-English and Chinese sources are supported. Use the **Story language** selector for bilingual titles, summaries, and reasons to read. Search works across both languages. Forum/social items are labeled community perspectives; inaccessible/login-only posts are skipped. Preferred community platforms are discovery targets, not endorsements of every author. The founding collection includes a Chinese source; future source diversity depends on what can be checked.
+Rally is a bilingual pickleball publication for women who play or are curious about the sport. Read concise, source-linked stories, leave comments using a GitHub account, and help shape the next edition. The story-language selector switches between English and Simplified Chinese. The library searches across languages and previous editions.
 
-No database, separate server, JavaScript build tools, or Python dependencies are required. GitHub accounts are required to submit reviews; reading is public.
+## Comment-only feedback
 
-## Launch this repository
+This testing version accepts feedback from **any GitHub user**. No invitation, collaborator access, or username list is required. Click **Leave feedback** under a story (or **Review the edit** for the whole edition), write a comment in English or Chinese, and submit the GitHub issue. Ratings and more/less preferences are optional. Feedback is public, so do not include private information.
 
-1. In **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**.
-2. In **Settings → Secrets and variables → Actions → New repository secret**, create **OPENAI_API_KEY** using your OpenAI API key. Never put the key in config.json, issues, commits, or chat.
-3. Edit `config.json`: add your friends’ GitHub usernames to `trusted_reviewers`. The repository owner (`kjincs`) is always included. Example: `"trusted_reviewers": ["friend-one", "friend-two"]`. Until friends are added, their reviews can be submitted, but do not influence research.
-4. Ensure **Issues** is enabled under Settings → General → Features. The form is available after these files are on the default branch (`main`).
-5. In **Actions → Publish website → Run workflow**, publish the founding collection. The expected address is **https://kjincs.github.io/pickleball-rally/**; the Pages deployment reports the actual URL.
-6. Open **Actions → Prepare next edition → Run workflow** to test a real AI-researched edition. This incurs AI API usage. The workflow commits the edition and explicitly invokes the Pages workflow; it does not rely on a bot commit triggering another workflow.
-7. Share the website. Story buttons open a GitHub form with the edition/story IDs prefilled. Reviewers pick a score (1–5), a preference, and an optional comment, then submit the issue. They can edit the issue to update their review.
+Edit your feedback issue to change a response. The newest valid submission per person/story/edition wins. Closed issues are included. The next research run reads recent reviews from the last six weeks; comments received after its snapshot inform a later edition. A comment alone counts. A completely empty submission does not.
 
-If generation cannot write its commit, check Settings → Actions → General → Workflow permissions and branch protection. Allow this workflow to write contents on the default branch, or use a dedicated publication branch with an adjusted workflow. Do not disable protections unrelated to this task.
+## Daily publication
 
-## Automatic daily cycle
+Research runs in a **scheduled task in the signed-in Codex app**, using this local project. No OpenAI API key or separate AI API billing setup is required. Your account’s Codex usage limits still apply. Keep the computer powered on with the app running for local scheduled work.
 
-- Scheduled for approximately **8:17 a.m. America/Chicago**. Two UTC triggers cover daylight/standard time; a local-time gate runs only once. A successfully generated edition for the date skips a second scheduled run. Manual runs can create additional editions. Change the timezone/hour and cron triggers together if changing the schedule.
-- Reads all issue pages, including closed/edited reviews. Filters submissions to owner/trusted usernames and known edition/story IDs. The newest valid review per reviewer/story/edition wins.
-- Uses reviews updated within the last six weeks (at most the latest 100 valid reviews in the AI prompt), prior guidance, a permanent editorial brief, and previously published stories.
-- Makes two OpenAI Responses API calls: source-grounded web research, then structured formatting. Model defaults to `gpt-4.1`; use the Actions variable **OPENAI_MODEL** or config.json to select another model that supports web search and structured outputs. API access and limits depend on your account.
-- Checks candidate URLs against research citation/source URLs, normalizes tracking URLs, rejects repeated URLs and future dates, and requires recent dates for items labeled news. Background reads are labeled evergreen. These automated checks reduce mistakes; they do not prove every claim is true.
-- Publishes only if at least one new story passes. Allows shorter editions when material is scarce. Failures retain the existing published site and appear as failed workflow runs.
-- Generates original summaries and uses original SVG illustrations. No third-party images are copied. Dates and publishers remain visible.
+The daily task is intended for **8:17 a.m. America/Chicago**. Its instructions live in `AGENTS.md`. It:
 
-The feedback note and updated search guidance are automatic; there is no routine owner approval. The owner can run an extra edition from the workflow page. Readers cannot trigger paid searches directly from the public site.
+1. Reads public GitHub reviews and the permanent editorial brief.
+2. Searches English and Chinese sources for court style, community stories, meaningful news, trends, and paddle knowledge.
+3. Opens original pages and prepares faithful bilingual summaries. Public social/forum posts are attributed perspectives, not verified general reporting. Inaccessible or login-only posts are skipped.
+4. Checks dates, source evidence, duplicate URLs, bilingual fields, and story limits. It avoids repeat coverage and keeps an exploratory subject where suitable material exists.
+5. Saves a new edition, runs checks, commits content, and pushes to GitHub.
+6. Verifies the **Publish website** deployment. If research or publishing fails, the last successful edition remains available.
 
-GitHub scheduled workflows can be delayed, and scheduled workflows in inactive public repositories may be disabled by GitHub. Check Actions if editions stop appearing. Workflow concurrency prevents overlapping research runs; a failed push does not overwrite others’ commits.
+There is no daily owner approval. A scheduled edition already published for the local date is not duplicated. The owner can ask Codex for an extra edition. Existing editions remain available in the archive.
 
-## Editorial scope and knowledge base
+GitHub Actions only tests and deploys saved website files; it does not call the AI. The obsolete API research workflow has been removed. The website stays readable if this computer is asleep, but new content waits for a successful Codex run.
 
-Categories: **Style**, **Community**, **News**, **Trends**, **Paddle knowledge**. `editorial_brief` and `preferred_sources` are editable in config.json. Sources are preferences, not an exhaustive allowlist: research can discover better sources. AI instructions call for topic diversity, cautiously applied preferences, and an exploratory slot when suitable material exists.
+## Configuration
 
-The initial founding edition contains real source-linked background reads, clearly marked as a starter collection rather than newly reported news. AI editions start only after credentials are configured and the research workflow succeeds.
+Edit `config.json` to change the editorial brief, preferred sources, edition size, and source-language preferences. Source lists guide discovery; credibility is evaluated per source and claim, rather than assuming all posts on a platform are trustworthy.
 
-Previous editions remain immutable in `data/editions/`. The library searches their story summaries/categories and links to original publishers. This is a source-linked reader library, not a fact-verified encyclopedia or a copy of full publisher articles. `data/preferences.json` preserves aggregate search guidance and review count; raw comments remain in public GitHub issues. Do not submit private information in public reviews.
+`review_mode: "open"` considers all public GitHub reviewers. Later, if needed, set `review_mode: "trusted"` and add GitHub usernames to `trusted_reviewers`; the repository owner is included automatically in trusted mode. Leave open mode for this testing version.
 
-Corrections: edit a story’s summary/source/date in its edition JSON with an explicit correction note in the summary, then push. If reviewers choose “Check the facts or source,” it informs the next research run; it does not silently amend historical stories.
+If moving the repository, update `repository` in config.json and the repository/site references in AGENTS.md. The Pages workflow assumes the default branch is main for push events.
 
-## Local development
+## Local preview and checks
 
 ```sh
 python3 -m http.server 4173 --bind 127.0.0.1
-```
-
-Open http://127.0.0.1:4173/. Serve over HTTP; directly opening index.html cannot reliably fetch data files. Source links and GitHub forms work without the API key. No paid AI calls happen in the browser.
-
-```sh
 python3 -m unittest discover -s tests -v
 python3 scripts/build.py
 ```
 
-Builds only public files into `_site/`. The Pages workflow does not upload scripts, tests, or credentials. To run live research locally, set `OPENAI_API_KEY` and a GitHub token with repository issue-read access in your shell, then run `python3 scripts/generate.py`. Keep secrets outside shell history when possible. Avoid local live generation while the scheduled workflow is running; use the manual GitHub workflow for normal operation.
+Open http://127.0.0.1:4173/. Use HTTP rather than opening index.html directly. There are no package installs or build dependencies; Python 3.9+ works locally, and GitHub uses Python 3.12.
 
-## Files
+`build.py` packages public files into `_site/`. This directory is generated, ignored by Git, and can be removed after verification. The deployment does not include scripts, tests, drafts, or raw review snapshots.
 
-- `index.html`, `assets/`: responsive editorial website and original illustrations.
-- `config.json`: repository identity, reviewer usernames, AI model, timezone, and editorial brief.
-- `data/index.json`, `data/editions/`: ordered edition archive.
-- `data/preferences.json`: automatic search guidance.
-- `.github/ISSUE_TEMPLATE/review.yml`: public scoring/comment form.
-- `.github/workflows/edition.yml`: daily/manual research and commit.
-- `.github/workflows/pages.yml`: tests, packaging, and GitHub Pages deployment.
-- `scripts/generate.py`: review ingestion, AI research, source/date checks, publication.
-- `tests/test_pipeline.py`: feedback and publication validation tests.
+## Preparing an edition without a key
 
-## References
+```sh
+python3 scripts/generate.py --context /tmp/rally-context.json
+```
 
-- [GitHub Pages custom workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
-- [GitHub Issue Forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)
-- [OpenAI web search](https://developers.openai.com/api/docs/guides/tools-web-search)
-- [OpenAI structured outputs](https://developers.openai.com/api/docs/guides/structured-outputs)
+This reads the public GitHub issues with no key. The standard library HTTPS request may need network access in the local sandbox. An existing `GITHUB_TOKEN` can optionally be used for higher GitHub rate limits, but is not required. If feedback cannot be retrieved, do not pretend there were no reviews: resolve the fetch or retain the previous edition.
+
+Codex reads the snapshot, researches with its search tools, and writes `/tmp/rally-draft.json` using the schema in AGENTS.md. Source evidence records what was actually opened and checked. Then:
+
+```sh
+python3 scripts/generate.py --publish /tmp/rally-draft.json
+python3 -m unittest discover -s tests -v
+python3 scripts/build.py
+```
+
+The publisher validates the whole draft before updating the edition index. It rejects previous URLs, uncited links, future dates, undated/stale items labeled news, invalid bilingual fields, and oversized editions. These checks do not independently prove every statement or translation is correct. The research task must verify the sources and preserve their context.
+
+Commit content under `data/` and push main. GitHub’s **Publish website** workflow publishes it. Check Actions and the live page to verify success. Do not publish if checks fail or if conflicting local/remote work needs attention.
+
+## Files kept in this project
+
+- `index.html`, `assets/`: responsive reading interface and original SVG illustrations.
+- `config.json`: editorial and feedback configuration.
+- `data/index.json`, `data/editions/`: permanent edition archive and source evidence.
+- `data/preferences.json`: aggregate search guidance.
+- `.github/ISSUE_TEMPLATE/review.yml`: public feedback form with optional score.
+- `.github/workflows/pages.yml`: validation and website deployment.
+- `scripts/generate.py`: public-review collection, validation, and draft publication; no AI API calls.
+- `scripts/build.py`: public-file packaging.
+- `tests/test_pipeline.py`: meaningful review and publication checks.
+- `AGENTS.md`: durable instructions for the daily Codex task.
+
+Temporary drafts, snapshots, screenshots, `_site/`, and Python caches do not belong in the repository. Do not delete historical editions as “temporary” files; they are the reader’s knowledge library.
+
+## Editorial notes
+
+Every story links to its publisher and shows a publication date or explicit unknown date, original language, and source type. Older material is labeled evergreen. Brand announcements and forum/social experiences are distinguished from reporting. Illustrations are original art, not pictures of reported events. No publisher photographs or full articles are copied.
+
+Reader preference helps choose interesting content; it does not verify facts. Correct mistakes explicitly in the affected summary and commit a correction, rather than silently rewriting the historical record.
+
+The founding edition is a source-linked starter collection. Subsequent editions are researched through the signed-in Codex session. A short edition with solid sources is preferable to filling slots with weak or repetitive material.

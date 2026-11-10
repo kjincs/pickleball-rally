@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-09-044430-d66993",
+  "date": "2026-11-09",
+  "created_at": "2026-11-10T04:44:30.275085+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Our first Codex-researched edition pairs fresh court style with useful paddle news and stories of lifelong play. No reader reviews have arrived yet. Leave a comment in English or Chinese; a score is optional, and your feedback will shape the next search.",
+  "feedback_note_zh": "第一期 Codex 研究精选，带来新鲜穿搭、实用球拍动态和不同年龄的社群故事。目前尚未收到读者评论。欢迎用中文或英文留言，评分可选；你的反馈将帮助我们寻找下一期内容。",
+  "review_count": 0,
+  "stories": [
+    {
+      "title": "Polka dots, sky blue, and a little doubles coordination",
+      "title_zh": "波点、天空蓝，还有双打搭档的穿搭默契",
+      "summary": "Pickleball.com’s November 9 fashion roundup finds personality at the Opendoor World Championships: a coordinated white-and-blue mixed doubles pairing and Marcela Aguila Ampon’s black-and-white polka-dot dress. A quick lookbook for readers who enjoy bringing their own style to the court.",
+      "summary_zh": "Pickleball.com 在 11 月 9 日发布的世锦赛穿搭精选中，记录了混双搭档的白色与天空蓝配色，以及 Marcela Aguila Ampon 的黑白波点裙。喜欢在球场上展现个人风格的读者，可以从中寻找灵感。",
+      "why": "An easy starting point for your feedback: more pro-player inspiration, or more affordable everyday outfits?",
+      "why_zh": "你更想看职业球员的穿搭灵感，还是更平价、日常的搭配？欢迎留言告诉我们。",
+      "category": "Style",
+      "source": "Pickleball.com · Victoria Radnothy",
+      "url": "https://pickleball.com/fashion/best-dressed-at-the-opendoor-pickleball-world-championships",
+      "published_at": "2026-11-09",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "66e3d17cb43d"
+    },
+    {
+      "title": "A quiet paddle still needs to meet performance standards",
+      "title_zh": "安静的球拍，也需要符合性能标准",
+      "summary": "USA Pickleball’s November 9 statement names six OWL Sport models whose performance changed with use during testing. The organization says those models have a transition period through January 31, 2028, and will lose approval for its sanctioned competition on February 1, 2028. The original notice lists the affected models.",
+      "summary_zh": "USA Pickleball 在 11 月 9 日的公告中列出六款 OWL Sport 球拍，称测试发现其性能会随使用发生变化。公告规定过渡期截至 2028 年 1 月 31 日，相关型号将从 2 月 1 日起不再获准用于其认证赛事。具体型号见原文。",
+      "why": "Useful equipment context: quiet-category technology and competition approval are separate questions. Check the dated original notice for details.",
+      "why_zh": "实用装备背景：静音技术与赛事认证是两个不同问题。具体信息请以有日期的原始公告为准。",
+      "category": "Paddle knowledge",
+      "source": "USA Pickleball",
+      "url": "https://usapickleball.org/usap-news/equipment-news/statement-regarding-owl-sport",
+      "published_at": "2026-11-09",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "86060678f962"
+    },
+    {
+      "title": "More than a score: a Chinese story of lifelong play",
+      "title_zh": "不只看比分：一则关于长期打球的中国故事",
+      "summary": "A September feature in China Sports Daily, republished by the All-China Sports Federation, follows a Changsha pickleball exchange for older adults. It describes 32 teams and 390 athletes and accompanying staff, with women’s doubles, mixed doubles, and friendships across regions. This is a background read, rather than breaking news.",
+      "summary_zh": "中华全国体育总会网站转载的《中国体育报》九月特写，记录了长沙的一场老年人匹克球交流活动。32 支队伍、390 名运动员及随队人员参加，项目包括女双、混双等。报道也写到跨地区的球友情谊。这是一篇背景读物，并非即时新闻。",
+      "why": "An exploratory read about designing a welcoming playing community around participation and connection.",
+      "why_zh": "从参与与交流出发，看看一个友好的打球社群可以是什么样子。",
+      "category": "Community",
+      "source": "中国体育报 · 中华全国体育总会",
+      "url": "https://www.sport.org.cn/shouye/qmjs/2026/0921/708800.html",
+      "published_at": "2026-09-21",
+      "kind": "evergreen",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "6a7e25c721d8"
+    },
+    {
+      "title": "Pickleball’s community story reaches senior living",
+      "title_zh": "匹克球的社群故事，延伸到老年生活社区",
+      "summary": "USA Pickleball announced Cogir Senior Living as its official senior living partner on October 21. The announcement describes a focus on active lifestyles and social connection, including an athlete lounge at the 2026 Nationals. This is the organizations’ own partnership announcement, rather than an independent assessment of its results.",
+      "summary_zh": "USA Pickleball 于 10 月 21 日宣布 Cogir Senior Living 成为其官方老年生活社区合作伙伴。公告关注活跃生活和社交联系，并介绍了在 2026 年全国赛设置运动员休息区的安排。这是机构自身的合作公告，并非对项目效果的独立评估。",
+      "why": "A trend to follow: how organizations make room for social play at different stages of life.",
+      "why_zh": "一个值得持续观察的方向：不同机构如何为不同人生阶段的社交打球创造空间。",
+      "category": "Trends",
+      "source": "USA Pickleball · partnership announcement",
+      "url": "https://usapickleball.org/usap-news/partnerships/usa-pickleball-announces-cogir-senior-living-as-official-senior-living-partner",
+      "published_at": "2026-10-21",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "brand",
+      "id": "911636681d03"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://pickleball.com/fashion/best-dressed-at-the-opendoor-pickleball-world-championships",
+      "checked_at": "2026-11-09",
+      "notes": "Read original article: by Victoria Radnothy, dated Nov 9 2026 3:30 PM ET; confirms sky-blue/white doubles outfits and Ampon’s polka-dot dress. No publisher images copied."
+    },
+    {
+      "url": "https://usapickleball.org/usap-news/equipment-news/statement-regarding-owl-sport/",
+      "checked_at": "2026-11-09",
+      "notes": "Read original governing-body notice dated Nov 9 2026. Confirms six named models and transition dates through Jan 31 2028 / beginning Feb 1 2028. Summary limited to the stated sanctioning body and affected models."
+    },
+    {
+      "url": "https://www.sport.org.cn/shouye/qmjs/2026/0921/708800.html",
+      "checked_at": "2026-11-09",
+      "notes": "Read full Chinese article, dated Sep 21 2026, attributed to 中国体育报. Confirms Changsha exchange, 32 teams and combined 390 athletes and accompanying staff, including women’s and mixed doubles. Marked evergreen; no medical claims repeated."
+    },
+    {
+      "url": "https://usapickleball.org/usap-news/partnerships/usa-pickleball-announces-cogir-senior-living-as-official-senior-living-partner/",
+      "checked_at": "2026-11-09",
+      "notes": "Read announcement dated Oct 21 2026, including Cogir Athlete Lounge at Nationals. Labeled brand perspective and attributed plans rather than claiming measured outcomes."
+    }
+  ]
+}
