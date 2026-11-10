@@ -1,0 +1,31 @@
+{
+  "repository": "kjincs/pickleball-rally",
+  "trusted_reviewers": [],
+  "timezone": "America/Chicago",
+  "model": "gpt-4.1",
+  "edition_size": 6,
+  "editorial_brief": "Serve women who play or are curious about pickleball. Find useful, welcoming, concise stories across court fashion, women-led communities, important news, emerging trends, and paddle knowledge. Earn trust through care and useful information; do not turn the publication into a product catalog. Prefer primary sources. Clearly identify brand announcements. Avoid routine match recaps, unsupported health claims, repetitive celebrity announcements, and sensationalism. Retain topic variety and reserve at least one slot for exploration when enough stories qualify. Search in both English and Chinese (匹克球), including credible websites and publicly accessible forums/social posts. Publish each story with faithful English and Simplified Chinese summaries. Include Chinese original sources when strong material is available; do not force a quota with weak sources. Treat forum/social experiences as attributed perspectives, never verified general facts. Prefer identifiable firsthand authors, official accounts, and corroborated reporting. Skip login-only or inaccessible posts.",
+  "preferred_sources": [
+    "usapickleball.org",
+    "ppatour.com",
+    "sfia.org",
+    "nwpf.us",
+    "pickleball.com",
+    "sport.gov.cn",
+    "news.cn",
+    "ctpf.org.tw"
+  ],
+  "max_news_age_days": 30,
+  "source_languages": [
+    "en",
+    "zh"
+  ],
+  "community_sources": [
+    "reddit.com/r/Pickleball",
+    "zhihu.com",
+    "xiaohongshu.com",
+    "weibo.com",
+    "instagram.com"
+  ],
+  "max_community_stories": 2
+}

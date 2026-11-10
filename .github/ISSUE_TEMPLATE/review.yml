@@ -1,0 +1,51 @@
+name: Review a Rally story
+description: Score a story / 评分与评论，帮助改进下一期精选。
+title: "[Review] "
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for helping shape Rally. This review is public. Edit this issue later to update your score or comment."
+  - type: input
+    id: edition
+    attributes:
+      label: Edition ID
+      description: Keep the ID filled in by the website.
+    validations:
+      required: true
+  - type: input
+    id: story
+    attributes:
+      label: Story ID
+      description: Keep the story ID, or use edition for feedback on the whole edit.
+    validations:
+      required: true
+  - type: dropdown
+    id: score
+    attributes:
+      label: Score
+      options:
+        - "1 — Not useful"
+        - "2 — A little useful"
+        - "3 — Good"
+        - "4 — Very good"
+        - "5 — Excellent"
+    validations:
+      required: true
+  - type: dropdown
+    id: direction
+    attributes:
+      label: What should we change?
+      options:
+        - More like this
+        - Keep the mix
+        - Less like this
+        - Already seen / repetitive
+        - Check the facts or source
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: Your thoughts
+      description: English or Chinese welcome / 欢迎用中文或英文评论。你喜欢什么？下一期希望看到什么？也欢迎纠错和提供来源链接。
+      placeholder: "For example: More affordable court fashion and women-led club stories."
