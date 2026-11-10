@@ -1,0 +1,119 @@
+{
+  "id": "2026-11-10-144206-7234e4",
+  "date": "2026-11-10",
+  "created_at": "2026-11-10T14:42:06.067482+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Today’s edit explores women’s leagues, a community tournament, practical autumn layers, and the beginner experience. No reader reviews have arrived yet, so the mix follows our standing editorial brief. Comments in English or Chinese will guide future searches.",
+  "feedback_note_zh": "本期关注女性联赛、社群赛事、秋季叠穿与新手体验。目前尚未收到读者评论，因此内容组合仍依据我们的编辑方向。欢迎用中文或英文留言，帮助我们改进今后的搜索。",
+  "review_count": 0,
+  "stories": [
+    {
+      "title": "A women’s league built around coming back each week",
+      "title_zh": "让每周回到球场，成为女性球友的共同约定",
+      "summary": "The National Women’s Pickleball League describes a team format with skill-based divisions, captains, and scheduled matches. Its FAQ says players should already know how to serve, score, and complete a game; seasons generally run eight to eleven weeks. An organization’s own overview, useful for imagining a regular playing community.",
+      "summary_zh": "美国国家女子匹克球联赛介绍了一种按水平分组、设有队长和固定赛程的团队模式。其常见问题说明，参与者应已掌握发球、计分及完整比赛，赛季通常持续八至十一周。这是组织自身的介绍，为建立稳定的打球社群提供了参考。",
+      "why": "A repeatable social routine can be as interesting as a tournament result. Tell us whether women’s league stories belong in the mix.",
+      "why_zh": "除了赛事成绩，稳定的社群活动也值得关注。你想继续看到女性联赛的故事吗？",
+      "category": "Community",
+      "source": "National Women’s Pickleball League",
+      "url": "https://nwpl.us/",
+      "published_at": null,
+      "kind": "evergreen",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "987164a21109"
+    },
+    {
+      "title": "A community tournament is coming to Naples",
+      "title_zh": "本周，社群球友将在那不勒斯相聚",
+      "summary": "YMCA of the USA says its second national pickleball tournament will take place November 13–15 in Naples, Florida, with more than 600 athletes expected. The organizer describes a weekend of competition and community for YMCA players aged 18 and older, and says spectators are welcome. These are announced plans, not final attendance results.",
+      "summary_zh": "美国 YMCA 宣布，第二届全国匹克球赛事将于 11 月 13 日至 15 日在佛罗里达州那不勒斯举行，预计迎来六百多名运动员。主办方将活动定位为面向十八岁以上 YMCA 球友的比赛与社群周末，并欢迎观众到场。这些是活动安排与预计人数，并非最终统计。",
+      "why": "An example of a community organization creating a path from everyday play to a shared event.",
+      "why_zh": "看看一个社群组织，如何把日常打球延伸为共同参与的活动。",
+      "category": "News",
+      "source": "YMCA of the USA · Y-USA Staff",
+      "url": "https://www.ymca.org/news/2026-ymca-national-pickleball-tournament-take-place-naples-fl",
+      "published_at": "2026-11-05",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "6c4d0dc89230"
+    },
+    {
+      "title": "Autumn court style starts with a layer you already own",
+      "title_zh": "秋季球场穿搭，从衣橱里的一件外搭开始",
+      "summary": "Club Recess’s November styling post suggests putting an easy-to-remove layer over a playing outfit, then planning separately for time after the match. It illustrates the idea with dresses, skirts, and shorts from its own collection. Read it as a brand’s styling perspective, rather than an independent product review.",
+      "summary_zh": "Club Recess 的十一月穿搭文章建议，在打球服装外加一件容易脱下、便于收纳的外搭，并考虑赛后停留时的穿着。文章以自家连衣裙、半裙与短裤示范搭配。这是一篇品牌穿搭观点，并非独立产品测评。",
+      "why": "The layering idea can be explored with existing clothes; no need to treat a brand lookbook as a shopping list.",
+      "why_zh": "可以先用已有衣物尝试叠穿，不必把品牌造型当作购物清单。",
+      "category": "Style",
+      "source": "Club Recess · brand styling guide",
+      "url": "https://clubrecess.com/blogs/pickleball/fall-pickleball-outfits-layering-edit",
+      "published_at": "2026-11-05",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "brand",
+      "id": "649d2964389a"
+    },
+    {
+      "title": "A Chinese-language starting point for your first game",
+      "title_zh": "第一场球之前，先看这份中文入门指南",
+      "summary": "The Chinese Taipei Pickleball Federation’s starter guide introduces singles and doubles, basic equipment, diagonal serves, the two-bounce rule, and the non-volley zone. It also links to rules, courses, and events. A background resource to share with a friend who wants context before walking onto a court.",
+      "summary_zh": "中华民国匹克球总会的入门指南，用中文介绍单打与双打、基本器材、斜对角发球、双弹跳规则和非截击区，并提供规则、课程与活动入口。适合转给想先了解基本概念、再走上球场的朋友，完整判定仍应查阅其最新规则。",
+      "why": "Useful content is not always breaking news: a clear first step can make a new player feel more welcome.",
+      "why_zh": "有用的内容不一定都是新闻：清楚的第一步，也能让新球友更容易融入。",
+      "category": "Paddle knowledge",
+      "source": "中華民國匹克球總會 · Chinese Taipei Pickleball Federation",
+      "url": "https://www.ctpf.org.tw/pickleball",
+      "published_at": null,
+      "kind": "evergreen",
+      "source_language": "zh",
+      "source_type": "official",
+      "id": "f4ff48041203"
+    },
+    {
+      "title": "Community voices: there is no single beginner timeline",
+      "title_zh": "球友声音：新手进步，没有统一时间表",
+      "summary": "In a public r/Pickleball discussion, u/tandana describes frustration after lessons and a handful of games. Commenters share very different learning experiences; one, u/bakeswhenstressed, describes learning with women who formed their own league. These are personal accounts, not verified timelines or a promise about anyone’s progress.",
+      "summary_zh": "在 r/Pickleball 的公开讨论中，u/tandana 分享了上课和几次打球后仍感到挫败的经历。回复中的进步速度各不相同；u/bakeswhenstressed 则讲到和女性球友一起学习、后来组成联赛的经历。这些是个人叙述，不是经核实的进步时间表，更不是对任何人的效果承诺。",
+      "why": "An exploratory community perspective on how welcome, practice partners, and confidence shape the beginner experience.",
+      "why_zh": "从社群视角，看看友好的参与环境、练习伙伴和信心如何影响新手体验。",
+      "category": "Community",
+      "source": "Reddit r/Pickleball · u/tandana and commenters",
+      "url": "https://www.reddit.com/r/Pickleball/comments/1xprt8w/newbies_with_no_racquet_sports_experience_how",
+      "published_at": null,
+      "kind": "evergreen",
+      "source_language": "en",
+      "source_type": "forum",
+      "id": "07d8add55bbe"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://nwpl.us/",
+      "checked_at": "2026-11-10",
+      "notes": "Read the league’s original homepage and FAQ. Checked structured divisions/captains, basic skill prerequisites, and eight-to-eleven-week seasons. No publication date stated. Excluded uncorroborated health claims and self-reported participation counts."
+    },
+    {
+      "url": "https://www.ymca.org/news/2026-ymca-national-pickleball-tournament-take-place-naples-fl",
+      "checked_at": "2026-11-10",
+      "notes": "Read original Y-USA Staff announcement, dated Thursday November 5 2026. Verified Nov 13–15 Naples event, expected 600-plus athletes, age 18+, and spectator invitation. Preserved future/expected wording."
+    },
+    {
+      "url": "https://clubrecess.com/blogs/pickleball/fall-pickleball-outfits-layering-edit",
+      "checked_at": "2026-11-10",
+      "notes": "Read original brand post dated Nov 05 2026. Verified lightweight removable own-closet layers, dress/skirt/short outfit examples, and planning for arrival/breaks/after play. Omitted product performance and protection claims and prices."
+    },
+    {
+      "url": "https://www.ctpf.org.tw/pickleball/",
+      "checked_at": "2026-11-10",
+      "notes": "Read official Chinese starter guide. Checked basic equipment, singles/doubles, diagonal serve, two-bounce rule and non-volley-zone introductions and links to full rules. No publication date stated; marked evergreen. Simplified Chinese summary is a faithful adaptation of the Traditional Chinese original."
+    },
+    {
+      "url": "https://www.reddit.com/r/Pickleball/comments/1xprt8w/newbies_with_no_racquet_sports_experience_how/",
+      "checked_at": "2026-11-10",
+      "notes": "Opened original public thread and read the author’s post and comments, including u/bakeswhenstressed’s first-person league experience. Page showed relative times and search metadata differed, so no exact date inferred. No improvement promises or broad factual claims taken from anecdotes. Instagram discovery link could not be fetched and was not selected."
+    }
+  ]
+}
