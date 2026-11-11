@@ -1,0 +1,119 @@
+{
+  "id": "2026-11-11-152050-443287",
+  "date": "2026-11-11",
+  "created_at": "2026-11-11T15:20:50.351606+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "We read 9 valid reviews from 2 reviewers. Feedback favored women's fashion and official pickleball coverage, and asked for more context on who starts community organizations and why, fewer small local-event notices and basic beginner explainers, and more major PPA/MLP and industry ownership or financing news. This edition follows those editorial cues, avoids repeating the previous edition's championship event, and treats feedback as guidance rather than fact verification.",
+  "feedback_note_zh": "我们读取了2位读者留下的9条有效反馈。留言认可女性时尚和官方匹克球资讯，并建议介绍社群组织的创办者与成立初衷，减少小型地方赛事和基础入门内容，多关注PPA/MLP重要动态及行业股权、融资消息。本期据此调整选题，避开上一期已报道的赛事；留言只作为编辑参考，不代替事实核查。",
+  "review_count": 9,
+  "stories": [
+    {
+      "title": "Major League Pickleball adds a Houston team for 2027",
+      "title_zh": "MLP宣布休斯敦队将于2027年加入联赛",
+      "summary": "Major League Pickleball says the Houston Hammers will become its 21st team in 2027. The ownership group, led by Hugh Zhang, says it plans to host a league event in Houston and include senior and junior teams. The announcement gives readers a concrete look at league expansion and local ownership plans.",
+      "summary_zh": "Major League Pickleball宣布，休斯敦锤子队将于2027年成为联赛第21支球队。由Hugh Zhang领衔的所有权团队表示，计划在休斯敦承办一场联赛赛事，并布局老年组和青少年队。这项公告让读者看到职业联赛扩张与地方球队运营规划的具体动向。",
+      "why": "A major-league expansion story with named ownership and a stated plan for the local market, matching readers' interest in MLP and industry moves.",
+      "why_zh": "这是一条涉及具名所有权团队和地方市场规划的职业联赛扩张消息，回应读者对MLP及行业动态的关注。",
+      "category": "News",
+      "source": "Major League Pickleball",
+      "url": "https://majorleaguepickleball.co/news/houston-hammers-to-join-major-league-pickleball-as-21st-team-for-2027-season",
+      "published_at": "2026-10-28",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "a9f7f8bc26d7"
+    },
+    {
+      "title": "A pickleball club filed a proposed crowdfunding offer",
+      "title_zh": "一家匹克球俱乐部提交了众筹融资文件",
+      "summary": "A November 9 SEC filing by Ace Pickleball Club Media LLC describes a proposed Regulation Crowdfunding offer of up to $4,989,800, including transaction fees, with a $25,562.50 minimum target and an August 11, 2027 target date. This is a proposed offering, not confirmation that the money has been raised. The filing also says the SEC does not approve the securities or assess the offer's merits.",
+      "summary_zh": "Ace Pickleball Club Media LLC于11月9日提交的SEC文件，列明一项依据Regulation Crowdfunding进行的拟议融资，最高金额为4,989,800美元（含交易费用），最低目标金额为25,562.50美元，目标日期为2027年8月11日。这是拟议中的发行，不代表资金已经募集完成。文件还明确说明，SEC并未批准这些证券，也未评估该发行的投资价值。",
+      "why": "A recent primary-source filing shows one way a club business is seeking capital; the distinction between a proposal and completed funding matters.",
+      "why_zh": "这份近期的一手文件展示了一家俱乐部企业寻求资金的方式，也提醒读者区分融资提案与已经完成的融资。",
+      "category": "News",
+      "source": "U.S. Securities and Exchange Commission filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/2145638/000187285626000365/acepickleballca110926.pdf",
+      "published_at": "2026-11-09",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "6bf03ed6d900"
+    },
+    {
+      "title": "A longtime builder is changing roles at USA Pickleball",
+      "title_zh": "USA Pickleball的一位长期建设者将转换岗位",
+      "summary": "USA Pickleball says Justin Maloof joined in 2013 as its first full-time employee, when it had just over 4,000 members, and helped guide operations and competition as the organization grew. He is set to leave his full-time Chief Competition Officer role at year-end and continue as a consultant. The profile offers a rare behind-the-scenes view of how a major governing body developed.",
+      "summary_zh": "USA Pickleball介绍，Justin Maloof于2013年加入时是该组织首位全职员工，当时会员刚超过4,000人；随着组织发展，他参与推动了运营与竞赛工作。他预计在年底卸任全职首席竞赛官，之后以顾问身份继续提供支持。这篇人物介绍让读者看到一家重要管理机构的发展过程。",
+      "why": "An official profile adds institutional background to the governing-body news readers asked us to follow.",
+      "why_zh": "这篇官方人物介绍补充了读者希望持续关注的管理机构背景。",
+      "category": "News",
+      "source": "USA Pickleball",
+      "url": "https://usapickleball.org/usap-news/celebrating-a-lasting-legacy-justin-maloofs-14-years-at-usa-pickleball",
+      "published_at": "2026-10-30",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "0ce5cff662f7"
+    },
+    {
+      "title": "Farah Liem brings New York style to pickleball apparel",
+      "title_zh": "Farah Liem把纽约风格带进匹克球服饰",
+      "summary": "In an interview with Pickleball.com, Erne + Ace founder Farah Liem describes drawing ideas from New York's colors, silhouettes, and court community. The brand's pieces are designed to move between play and the rest of a busy day. This founder-led perspective connects women's court fashion with the people and place behind a label; the product descriptions are the brand's own, not independent performance testing.",
+      "summary_zh": "在Pickleball.com的采访中，Erne + Ace创办人Farah Liem谈到，她从纽约的色彩、廓形和球场社群中寻找设计灵感。品牌服饰希望适用于打球和忙碌日常之间的转换。这篇创办人访谈把女性球场穿搭与品牌背后的人和城市联系起来；有关产品的描述来自品牌，并非独立性能测试。",
+      "why": "A named designer explains the inspiration behind a women's pickleball label, aligning with readers' request for more fashion coverage.",
+      "why_zh": "具名设计品牌创办人讲述女性匹克球服饰的灵感来源，回应读者对时尚内容的关注。",
+      "category": "Style",
+      "source": "Pickleball.com · Victoria Radnothy",
+      "url": "https://pickleball.com/fashion/erne-ace-is-bringing-nyc-fashion-to-the-pickleball-court",
+      "published_at": "2026-03-20",
+      "kind": "evergreen",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "8d4a10d54240"
+    },
+    {
+      "title": "From social meetups to a women-founded pickleball space in Beijing",
+      "title_zh": "从社群活动到北京女性创业者的匹克球空间",
+      "summary": "In a Phoenix New Media contributor profile, Beijing founder Cai Yue recounts how she and a longtime collaborator moved from themed social meetups to pickleball, first as one activity in a '100 sports' series and later as a dedicated court and lifestyle project called TBX. She describes wanting a community-oriented brand, while also detailing the seasonal costs and daily work of operating an outdoor venue. This is her reported experience, not a claim that every club will follow the same path.",
+      "summary_zh": "在凤凰网大风号的作者投稿人物报道中，北京创业者蔡悦回顾了她与长期合作伙伴从主题社交活动转向匹克球的过程：匹克球最初是“体验100种运动”系列中的一项，之后发展为TBX专属球场与生活方式项目。她讲述了打造社群品牌的初衷，也介绍了户外场地经营面临的季节性成本和日常工作。这是她的个人创业经历，不代表所有球馆都会走相同路径。",
+      "why": "This founder profile answers readers who asked to learn who starts pickleball communities, why they start, and what it takes to keep them going.",
+      "why_zh": "这篇创业者介绍回应了读者的建议：了解谁在创办匹克球社群、为何创办，以及持续经营需要付出什么。",
+      "category": "Community",
+      "source": "Phoenix New Media · 城事通 (contributor post)",
+      "url": "https://feng.ifeng.com/c/8x0ecIM26k3",
+      "published_at": "2026-10-06",
+      "kind": "evergreen",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "b9caf7117362"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://majorleaguepickleball.co/news/houston-hammers-to-join-major-league-pickleball-as-21st-team-for-2027-season/",
+      "checked_at": "2026-11-11",
+      "notes": "Read MLP's official Oct. 28 release: confirms Houston Hammers as the league's 21st 2027 team, names Hugh Zhang as the ownership-group leader, and states plans for a Houston event and senior/junior participation."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2145638/000187285626000365/acepickleballca110926.pdf",
+      "checked_at": "2026-11-11",
+      "notes": "Read the SEC-hosted Form C/A offering memorandum dated Nov. 9 for Ace Pickleball Club Media LLC: terms state up to $4,989,800 including fees, a $25,562.50 target and Aug. 11, 2027 target date; filing says the LLC had not completed its first fiscal year and SEC does not approve the offering or assess its merits."
+    },
+    {
+      "url": "https://usapickleball.org/usap-news/celebrating-a-lasting-legacy-justin-maloofs-14-years-at-usa-pickleball/",
+      "checked_at": "2026-11-11",
+      "notes": "Read USA Pickleball's Oct. 30 official profile: Maloof joined in 2013 as first full-time employee with just over 4,000 members, served in operations and competition leadership, and plans to move from full-time role to consulting at year-end."
+    },
+    {
+      "url": "https://pickleball.com/fashion/erne-ace-is-bringing-nyc-fashion-to-the-pickleball-court",
+      "checked_at": "2026-11-11",
+      "notes": "Read Victoria Radnothy's Mar. 20 Pickleball.com interview with Erne + Ace founder Farah Liem: her reported New York and court-community inspirations, lifestyle positioning, and examples of apparel; product claims are attributed to the brand."
+    },
+    {
+      "url": "https://feng.ifeng.com/c/8x0ecIM26k3",
+      "checked_at": "2026-11-11",
+      "notes": "Read the original Oct. 6 Phoenix Big Wind contributor profile by 城事通, including founder Cai Yue's first-person account of moving from themed social events to a TBX pickleball court/lifestyle project and its operating challenges. The page labels the piece as a contributor's perspective."
+    }
+  ]
+}
