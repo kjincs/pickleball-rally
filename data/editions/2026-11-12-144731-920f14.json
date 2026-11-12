@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-12-144731-920f14",
+  "date": "2026-11-12",
+  "created_at": "2026-11-12T14:47:31.539899+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "We reviewed 9 valid comments from 2 readers. They favor women’s fashion, credible official coverage, and deeper profiles of women-led organizations; they want fewer generic beginner and small-event pieces, with more major-tour and business reporting. Today’s edition adds a reported founder-and-mission profile and a fresh licensing filing. We skipped recent Worlds coverage to avoid repeating that event. Feedback guides selection; it does not establish facts.",
+  "feedback_note_zh": "我们阅读了2位读者的9条有效留言。大家关注女性球场时尚、可信的官方信息，以及女性主导组织的创办背景；希望减少泛泛的入门内容和小型赛事，多关注顶级巡回赛与行业动态。本期加入一篇创办人与组织使命的深度报道，以及一项新的授权协议公告。为避免重复，本期没有再报道近期的世界锦标赛。反馈用于调整选题，不代表事实核实。",
+  "review_count": 9,
+  "stories": [
+    {
+      "title": "The founders behind a national women’s pickleball effort",
+      "title_zh": "全国性女性匹克球行动背后的两位创办人",
+      "summary": "The Pickleball Weekly traces the National Women’s Pickleball Foundation to Catherine Barton’s plan for a competitive league for senior women in 2018 and Alita Friedman’s 2021 gathering of 60 women players. The founders’ vision grew into a nonprofit focused on access for women and underserved groups, alongside a national women’s league and membership association. The profile also describes their complementary backgrounds in athletics, strategy, branding, and licensing.",
+      "summary_zh": "《The Pickleball Weekly》回溯了全国女性匹克球基金会（NWPF）的起源：Catherine Barton 于2018年开始筹划面向年长女性的竞技联赛，Alita Friedman 则在2021年组织了约60名女性球员聚会。两人的愿景后来发展为一个非营利组织，致力于帮助女性及服务不足的群体参与匹克球，并推动全国女性联赛和会员协会。报道也介绍了两人在体育、战略、品牌和授权领域的互补经历。",
+      "why": "A substantive founder story answers readers’ request to understand why a women-led organization began and what it hopes to build.",
+      "why_zh": "这篇创办人深度报道回应了读者的关注：了解女性主导组织为何成立，以及它希望实现什么目标。",
+      "category": "Community",
+      "source": "The Pickleball Weekly · Adriana Falco",
+      "url": "https://thepickleballweekly.com/the-power-of-two-national-womens-pickleball-association",
+      "published_at": "2026-10-14",
+      "kind": "evergreen",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "9a08d95095ab"
+    },
+    {
+      "title": "Agassi Sports and Grateful Dead sign a pickleball licensing deal",
+      "title_zh": "阿加西体育与 Grateful Dead 达成匹克球授权协议",
+      "summary": "A November 5 SEC filing says Agassi Sports Licensing signed a worldwide, nonexclusive agreement with Rhino Entertainment, the Grateful Dead’s master licensee. It covers selected Grateful Dead marks for pickleball and padel equipment, apparel, and related products. The filing describes royalty and minimum-sales terms, with initial marketing and shipments scheduled for 2027. This is a licensing announcement, not evidence of product sales or consumer demand.",
+      "summary_zh": "11月5日提交给美国证券交易委员会的文件显示，Agassi Sports Licensing 与 Grateful Dead 的总授权商 Rhino Entertainment 签署了一项全球、非独家协议。协议涵盖在匹克球和板式网球器材、服装及相关产品上使用部分 Grateful Dead 标识。文件提到版税和最低销售额条款，并计划于2027年开始营销和首批发货。这是一项授权公告，并不代表产品已经销售或已有市场需求。",
+      "why": "The primary filing offers a concrete example of licensing and entertainment partnerships entering the paddle-sports business.",
+      "why_zh": "这份一手监管文件展示了授权合作与娱乐品牌如何进入球拍运动行业。",
+      "category": "News",
+      "source": "SEC filing · Agassi Sports Entertainment",
+      "url": "https://www.sec.gov/Archives/edgar/data/930245/000149315226050242/form8-k.htm",
+      "published_at": "2026-11-05",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "0c2bf2a0645a"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://thepickleballweekly.com/the-power-of-two-national-womens-pickleball-association/",
+      "checked_at": "2026-11-12",
+      "notes": "Read the original reported profile. It describes Barton’s 2018 senior-women league idea, Friedman’s 2021 Boca West gathering, the founders’ backgrounds, and NWPF’s nonprofit, league, and membership ambitions."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/930245/000149315226050242/form8-k.htm",
+      "checked_at": "2026-11-12",
+      "notes": "Read the SEC 8-K and attached licensing details: parties, global nonexclusive scope, product categories, royalty/minimum-sales terms, and planned 2027 marketing and shipment milestones."
+    }
+  ]
+}
