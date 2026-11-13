@@ -1,0 +1,82 @@
+{
+  "id": "2026-11-13-211928-98db09",
+  "date": "2026-11-13",
+  "created_at": "2026-11-13T21:19:28.308455+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Nine valid review entries came from 2 readers. They continue to favor women’s fashion, official sources, and deeper women-led organization profiles, while asking for fewer beginner explainers and small-event pieces. A comment said a local community event framed as a weekend habit was not useful. This edition balances a timely PPA preview, a Chinese court-fashion collaboration report, and official paddle-certification news.",
+  "feedback_note_zh": "本期参考了2位读者的9条有效评价。大家继续关注女性球场时尚、官方信息和女性主导组织的深度介绍，同时希望减少入门知识和小型活动报道。有读者认为，把本地社群活动包装成周末习惯的内容帮助不大。本期安排了PPA赛事前瞻、中国女性球场服饰合作报道，以及官方球拍认证信息。",
+  "review_count": 9,
+  "stories": [
+    {
+      "title": "Daytona Beach PPA Open draws are out: what to watch next week",
+      "title_zh": "代托纳海滩PPA公开赛签表公布：下周看点一览",
+      "summary": "The PPA Tour’s Proton Daytona Beach Open runs Nov. 16–22 at Pictona at Holly Hill, with all five pro-division draws released. The event guide lists 1,000 ranking points per division and spotlights Anna Leigh Waters and Rachel Rohrabacher. The Round of 16 begins Thursday, Nov. 19 on PickleballTV; earlier qualifying and rounds stream on the PPA Tour’s YouTube channel.",
+      "summary_zh": "PPA巡回赛 Proton 代托纳海滩公开赛将于11月16日至22日在佛罗里达州 Holly Hill 的 Pictona 举行，五个职业组别的签表均已公布。赛事指南显示，各组冠军可获1,000个排名积分，并重点介绍了 Anna Leigh Waters 和 Rachel Rohrabacher。16强赛将于11月19日周四在 PickleballTV 播出；此前的资格赛和前几轮可通过PPA巡回赛 YouTube 频道观看。",
+      "why": "A timely guide to this PPA Tour stop gives readers the dates, stakes, featured players, and where to follow the matches.",
+      "why_zh": "这份及时的赛事指南整理了PPA站赛的日期、积分、焦点球员和观赛渠道，方便读者安排关注。",
+      "category": "News",
+      "source": "Pickleball.com · Hannah Johns; PPA Tour event guide",
+      "url": "https://pickleball.com/news/draws-released-for-the-proton-daytona-beach-open",
+      "published_at": "2026-11-12",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "b357c041fba6"
+    },
+    {
+      "title": "A Hong Kong player brings her own ideas to pickleball apparel",
+      "title_zh": "香港球员陈庭欣参与设计匹克球服饰联名系列",
+      "summary": "A report republished by Beijing News says Hong Kong entertainer and pickleball player Tong Ting Yan (陳庭欣) is working with brand Lance Board on a co-designed apparel line. She said she had found mostly tennis clothing when looking for pickleball-specific women’s wear. The design team describes a concept inspired by her parrots, with soft purple and blue, ballet details, and light mesh. Final product plans have not yet been announced.",
+      "summary_zh": "新京报转载日照新闻网的报道说，香港艺人兼匹克球爱好者陈庭欣正与兰斯博合作设计服饰系列。她表示，自己寻找女性匹克球专用服装时，接触到的大多是网球服。设计团队介绍，系列灵感来自她饲养的鹦鹉，采用浅紫、浅蓝色调，并融入芭蕾元素和轻盈网纱。具体产品安排尚未公布。",
+      "why": "The report connects a player’s real apparel needs with a concrete design process, while showing that the collection is still in development.",
+      "why_zh": "报道把球员实际的服装需求与具体设计过程联系起来，也说明该系列仍在开发中。",
+      "category": "Style",
+      "source": "新京报（转载日照新闻网）",
+      "url": "https://www.bjnews.com.cn/detail/1793261623129192.html",
+      "published_at": "2026-10-29",
+      "kind": "news",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "6037a886bdee"
+    },
+    {
+      "title": "USA Pickleball removes two CPX paddle models from its certified list",
+      "title_zh": "美国匹克球协会将两款CPX球拍移出认证名单",
+      "summary": "USA Pickleball says compliance testing found significant differences in PBCoR and deflection values between the CPX Hyper+ 14mm and 16mm models submitted for certification and the mass-produced units sold to consumers. The organization removed both models from its certified list and says it is working with CPX on new versions under a new model name. Players can consult the current approved-equipment list for status.",
+      "summary_zh": "美国匹克球协会表示，合规测试发现，送检认证的 CPX Hyper+ 14mm 和 16mm 球拍与面向市场销售的量产产品，在 PBCoR 和形变数值上存在显著差异。协会已将这两个型号移出认证名单，并称正与 CPX 合作，以新型号名称提交改版球拍。球员应查看最新的认证器材名单确认状态；这份声明没有宣布全面禁止休闲场合使用。",
+      "why": "Certification status can matter to tournament players and paddle buyers; the official notice explains what changed and points readers to the current list.",
+      "why_zh": "认证状态可能影响参赛球员和选购球拍的人；这份官方通知说明了变动，并指向最新名单。",
+      "category": "Paddle knowledge",
+      "source": "USA Pickleball",
+      "url": "https://usapickleball.org/usap-news/equipment-news/statement-from-usa-pickleball-regarding-the-cpx-hyper-14mm-and-hyper-16mm-paddles",
+      "published_at": "2026-11-02",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "b38d106f4117"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://pickleball.com/news/draws-released-for-the-proton-daytona-beach-open",
+      "checked_at": "2026-11-13",
+      "notes": "Read Hannah Johns's November 12 report: tournament dates and venue, release of all five pro-division draws, and the broadcast schedule. Cross-checked 1,000 points per division and featured players on the official PPA Tour event guide."
+    },
+    {
+      "url": "https://www.ppatour.com/events/2026/proton-daytona-beach-open/",
+      "checked_at": "2026-11-13",
+      "notes": "Read the PPA Tour event guide for dates, Pictona venue, 1,000-point status, payout context, player highlights, and viewing schedule."
+    },
+    {
+      "url": "https://www.bjnews.com.cn/detail/1793261623129192.html",
+      "checked_at": "2026-11-13",
+      "notes": "Read the Chinese report dated October 29. It identifies its content as reprinted from Rizhao News and describes Chen Ting Yan's apparel collaboration, her stated search for pickleball-specific women's clothing, the design inspiration, and that product details remain forthcoming."
+    },
+    {
+      "url": "https://usapickleball.org/usap-news/equipment-news/statement-from-usa-pickleball-regarding-the-cpx-hyper-14mm-and-hyper-16mm-paddles/",
+      "checked_at": "2026-11-13",
+      "notes": "Read USA Pickleball's November 2 statement about CPX Hyper+ 14mm and 16mm testing differences, removal from the certified list, and planned resubmission under a new model name."
+    }
+  ]
+}
