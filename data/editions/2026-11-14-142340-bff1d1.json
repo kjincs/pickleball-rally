@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-14-142340-bff1d1",
+  "date": "2026-11-14",
+  "created_at": "2026-11-14T14:23:40.469962+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Nine valid reviews from two readers continue to favor strong official and industry reporting, women’s style, and substantive women-led stories, while rating generic beginner pieces and small-event coverage lower. Today’s edition leads with major-league news and adds a clearly labeled manufacturer announcement.",
+  "feedback_note_zh": "两位读者共留下9条有效反馈，继续支持可靠的官方与行业报道、女性球场穿搭和有实质内容的女性组织故事，同时认为泛泛的入门内容和小型赛事价值较低。本期聚焦职业联赛新闻，并明确标注一则品牌新品公告。",
+  "review_count": 9,
+  "stories": [
+    {
+      "title": "MLP Asia postpones Hong Kong match day after visa applications were not processed",
+      "title_zh": "签证申请未获处理，MLP Asia 香港比赛日延期",
+      "summary": "MLP Asia called off the Hong Kong Cannons’ Nov. 14 home match day shortly before the scheduled first serve. The league said its visa agency had failed to process visiting athletes’ and staff’s work permits and that records were altered to conceal the failure; the agency’s published apology acknowledged the unprocessed applications and alteration of records. The league cited Hong Kong immigration compliance, promised ticket refunds, and had not announced a replacement date at publication.",
+      "summary_zh": "MLP Asia 在原定首场比赛开打前不到30分钟，取消了香港 Cannons 于11月14日的主场比赛日。联赛称，其签证代理机构未为到访球员和工作人员办理工作签证，并修改记录以掩盖失误；该机构公开的致歉声明承认申请未获处理及记录被修改。联赛表示延期是为遵守香港入境规定，并承诺退还门票；报道发布时尚未公布补赛日期。",
+      "why": "A major-league disruption with clear consequences for visiting teams and ticket holders; the account attributes allegations and admissions to the league and the agency’s apology.",
+      "why_zh": "这起职业联赛临时变更直接影响客队和购票观众；报道将相关说法分别归于联赛和代理机构的致歉声明。",
+      "category": "News",
+      "source": "Chris Beaumont, World Pickleball Magazine",
+      "url": "https://worldpickleballmagazine.com/mlp-asia-hong-kong-cannons-postponed-visa",
+      "published_at": "2026-11-14",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "b949b87e302e"
+    },
+    {
+      "title": "Selkirk’s Boomstik ST adds a new surface, perimeter groove, and adjustable weights",
+      "title_zh": "Selkirk Boomstik ST 新增表面纹理、周边凹槽和可调配重",
+      "summary": "In a Nov. 10 manufacturer announcement, Selkirk introduced the Boomstik ST at $350. The company says it retains the original Boomstik core and carbon face while adding its InfiniGrit Ultra surface, Sharktooth perimeter groove, and hand-adjustable perimeter weights. Selkirk describes the claimed friction, durability, and on-court effects as company specifications; this is a product announcement, not an independent paddle test.",
+      "summary_zh": "Selkirk 于11月10日发布公告，推出售价350美元的 Boomstik ST。公司称这款球拍保留原版 Boomstik 的核心和碳纤维拍面，并新增 InfiniGrit Ultra 表面、Sharktooth 周边凹槽及可手动调节的边缘配重。关于摩擦力、耐用性和场上效果的描述均为公司提供的产品信息；这是一则新品公告，并非独立测评。",
+      "why": "A useful gear update for readers comparing paddle design; the source’s performance figures and benefits are presented as manufacturer claims.",
+      "why_zh": "这则器材更新有助于读者了解球拍设计变化；性能数据和效果均明确注明为厂商说法。",
+      "category": "Paddle knowledge",
+      "source": "Selkirk Sport",
+      "url": "https://www.selkirk.com/pages/press-releases/selkirk-sport-launches-boomstik-st-the-next-evolution-of-its-premier-power-paddle",
+      "published_at": "2026-11-10",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "brand",
+      "id": "b230e55b16f3"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://worldpickleballmagazine.com/mlp-asia-hong-kong-cannons-postponed-visa/",
+      "checked_at": "2026-11-14",
+      "notes": "Read the Nov. 14 report by Chris Beaumont. It describes the postponement shortly before first serve, quotes the league's explanation, summarizes the visa agency's signed apology, and reports refunds and the absence of a replacement date."
+    },
+    {
+      "url": "https://www.selkirk.com/pages/press-releases/selkirk-sport-launches-boomstik-st-the-next-evolution-of-its-premier-power-paddle",
+      "checked_at": "2026-11-14",
+      "notes": "Read Selkirk's Nov. 10 press release. It lists the new surface, groove, adjustable weighting, launch price, and company-described features; all performance claims are attributed to the manufacturer."
+    }
+  ]
+}
