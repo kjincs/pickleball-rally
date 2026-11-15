@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-15-144459-fe54ae",
+  "date": "2026-11-15",
+  "created_at": "2026-11-15T14:44:59.691979+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "The nine valid reviews from two readers continue to favor substantive stories about women’s contributions, reliable official or industry sources, and less generic small-event coverage. Today’s selection highlights the people who build the sport’s officiating system and a national Chinese fitness program that includes pickleball among its core disciplines.",
+  "feedback_note_zh": "两位读者的9条有效反馈继续支持有实质内容的女性贡献故事、可靠的官方或行业来源，并希望减少泛泛的小型赛事报道。本期关注推动匹克球裁判体系发展的女性，以及将匹克球列为核心项目之一的中国全国性全民健身赛事。",
+  "review_count": 9,
+  "stories": [
+    {
+      "title": "Two longtime referees enter pickleball’s Hall of Fame as contributors",
+      "title_zh": "两位资深裁判以贡献者身份入选匹克球名人堂",
+      "summary": "The Hall of Fame’s 2026 class includes officiating leaders Marsha Freso and Linda Laymon alongside three competitors. Arizona reporting identifies them as its first referee inductees. It says Freso was among the first 10 USA Pickleball certified referees and has trained officials in the U.S. and abroad; Laymon helped create an early referee program and handbook that informed today’s certification system. Their recognition highlights the people and standards behind fair competition.",
+      "summary_zh": "匹克球名人堂2026届入选者包括长期从事裁判工作的 Marsha Freso 和 Linda Laymon，以及三位竞技选手。亚利桑那州的报道指出，这是裁判首次入选名人堂。名人堂介绍，Freso 是最早的10位 USA Pickleball 认证裁判之一，并曾在美国及海外培训裁判；Laymon 参与创建了早期裁判培训项目和手册，为如今的认证体系奠定基础。她们获此认可，也让人看到公平竞赛背后的人员与标准。",
+      "why": "A women-focused, behind-the-scenes story about how officiating expertise and training helped professionalize the sport.",
+      "why_zh": "这则女性人物故事展现了裁判专业能力与培训如何推动这项运动建立更规范的竞赛体系。",
+      "category": "Community",
+      "source": "Christina Fuoco-Karasinski, AZ Big Media; Pickleball Hall of Fame",
+      "url": "https://azbigmedia.com/lifestyle/as-pickleball-grows-the-hall-of-fame-serves-to-protect-its-legacy",
+      "published_at": "2026-11-13",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "26be5f5ceb70"
+    },
+    {
+      "title": "Pickleball is one of five core sports in China’s National Fitness Games finals",
+      "title_zh": "匹克球列入中国全国全民健身大赛总决赛五项规定项目",
+      "summary": "A Nov. 13 People’s Daily report says the second National Fitness Games finals opened in Qingdao on Nov. 12. Organized by China’s General Administration of Sport and the All-China Sports Federation, the program uses provincial qualifiers, regional rounds, and national finals in seven regions. Pickleball is one of five core sports, alongside table tennis, swimming, rouli ball, and paddleboarding. The report gives overall team-event medal totals, not pickleball-specific results.",
+      "summary_zh": "《人民日报》11月13日报道，第二届全国全民健身大赛总决赛于11月12日在青岛举行。赛事由国家体育总局和中华全国体育总会主办，设省级选拔、大区预赛和全国总决赛三级体系，覆盖七大赛区。匹克球与乒乓球、游泳、柔力球和桨板同为五项规定项目之一。报道列出的是团体项目的整体奖牌情况，并未公布匹克球单项成绩。",
+      "why": "A national-level signal of pickleball’s place in organized public fitness programming in China, carefully separated from event-specific results.",
+      "why_zh": "这则报道体现匹克球进入中国全国性群众健身赛事体系，同时明确区分整体赛事信息与匹克球单项成绩。",
+      "category": "Trends",
+      "source": "People’s Daily (人民日报)",
+      "url": "https://paper.people.com.cn/rmrb/pc/attachement/202611/13/b59e976b-b82e-479f-a213-141c37b2fdc2.pdf",
+      "published_at": "2026-11-13",
+      "kind": "news",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "21dfdc6c712c"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://azbigmedia.com/lifestyle/as-pickleball-grows-the-hall-of-fame-serves-to-protect-its-legacy/",
+      "checked_at": "2026-11-15",
+      "notes": "Read Christina Fuoco-Karasinski’s Nov. 13 report, which identifies Freso and Laymon as the first referees inducted and describes the class, Hall of Fame mission, and recent recognition events."
+    },
+    {
+      "url": "https://pickleballhalloffame.global/in-the-news/pickleball-hall-of-fame-announces-2026-class/",
+      "checked_at": "2026-11-15",
+      "notes": "Read the Hall’s class announcement and biographies. It details Freso’s referee training work and Laymon’s foundational referee program and handbook."
+    },
+    {
+      "url": "https://paper.people.com.cn/rmrb/pc/attachement/202611/13/b59e976b-b82e-479f-a213-141c37b2fdc2.pdf",
+      "checked_at": "2026-11-15",
+      "notes": "Read the Nov. 13 People’s Daily PDF page, including the report on the National Fitness Games finals. It names pickleball among five designated sports, gives the organizers and three-level competition structure, and reports overall team medal totals without pickleball-specific results."
+    }
+  ]
+}
