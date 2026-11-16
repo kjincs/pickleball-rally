@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-16-223151-8359ba",
+  "date": "2026-11-16",
+  "created_at": "2026-11-16T22:31:51.385441+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Eleven valid reviews from two readers continue to favor women’s fashion and reliable Chinese coverage. Recent feedback rated the People’s Daily update positively and the Hall of Fame story less useful as a noncritical industry item. Today’s edition follows that direction with court style, a woman player-owner’s perspective, major-league format, and a reported China industry analysis.",
+  "feedback_note_zh": "两位读者共留下11条有效反馈，继续关注女性球场穿搭和可靠的中国报道。最近的反馈认可《人民日报》的匹克球消息，并认为名人堂报道属于非关键行业信息、价值较低。本期据此聚焦球场时尚、女性球员兼球队股东的视角、职业联赛赛制，以及一篇中国行业分析报道。",
+  "review_count": 11,
+  "stories": [
+    {
+      "title": "The Court Edit brings camo tees and pleated skirts to pickleball style",
+      "title_zh": "The Court Edit 将迷彩上衣与百褶裙带入匹克球穿搭",
+      "summary": "Pickle361 reports that Singaporean player and creator Toi Sieu Ee launched The Court Edit Vol. 1 with FRIDAY Pickleball Asia on Nov. 4. The reported looks pair tone-on-tone camo tees in white, pink, and lavender with black or white pleated skirts; a yellow windbreaker is also shown. The report says the limited-time capsule’s ordering details are available by direct message. These are launch and styling details from the report, not a review of garment performance.",
+      "summary_zh": "Pickle361 报道，新加坡球员兼内容创作者 Toi Sieu Ee 于11月4日与 FRIDAY Pickleball Asia 推出 The Court Edit Vol. 1。报道展示的搭配包括白、粉、薰衣草紫色的同色系迷彩图案上衣，搭配黑色或白色百褶裙；另有黄色风衣。报道称该限时系列可通过私信询问订购详情。以上是新品发布和穿搭信息，并非对服装性能的评测。",
+      "why": "A concrete women’s court-style reference with identifiable pieces and colors, while keeping the source’s social-post basis and lack of performance testing clear.",
+      "why_zh": "这则报道提供了具体的女性球场穿搭单品与配色，同时说明其依据社交媒体内容，且没有进行性能测试。",
+      "category": "Style",
+      "source": "Andrew Lee, Pickle361",
+      "url": "https://www.pickle361.com/blogs/news/toi-sieu-ee-launches-the-court-edit-vol-1-with-friday-pickleball-asia",
+      "published_at": "2026-11-04",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "da6adc76a9b3"
+    },
+    {
+      "title": "WNBA star Jewell Loyd plays pickleball and invests in its team scene",
+      "title_zh": "WNBA 球星 Jewell Loyd 既打匹克球，也投资球队",
+      "summary": "Pickleball.com profiles six-time WNBA All-Star Jewell Loyd as a 5.0-rated pickleball player and an advocate for the sport’s intergenerational, welcoming play. The article says she is a part owner of Major League Pickleball’s Miami Pickleball Club and joined a panel for JOOLA and TOGETHXR’s “She’s Got a Point” initiative, which spotlights women in pickleball. Her story connects participation, investment, and women’s visibility in the sport.",
+      "summary_zh": "Pickleball.com 介绍了六届 WNBA 全明星 Jewell Loyd：她的匹克球等级为5.0，并支持这项运动跨年龄、友好参与的特点。报道还称，她是 Major League Pickleball 迈阿密匹克球俱乐部的部分股东，并参加了 JOOLA 与 TOGETHXR “She’s Got a Point” 女性匹克球倡议的讨论活动。她的经历串联起亲身参与、球队投资和女性在这项运动中的能见度。",
+      "why": "A distinctive women-in-sport profile that links a high-profile athlete’s playing experience with team ownership and a women-focused campaign.",
+      "why_zh": "这则女性体育人物报道将知名运动员的参与体验、球队所有权和女性主题倡议联系起来。",
+      "category": "Community",
+      "source": "Will Daughton, Pickleball.com",
+      "url": "https://pickleball.com/culture/inside-jewell-loyds-passion-for-pickleball",
+      "published_at": "2026-11-12",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "f0f36c6e258d"
+    },
+    {
+      "title": "MLP Asia’s first title will be decided at a two-day Kuala Lumpur final",
+      "title_zh": "MLP Asia 首届冠军将在吉隆坡两日总决赛中产生",
+      "summary": "MLP Asia’s first title is scheduled for Dec. 11–12 in Kuala Lumpur, with four of six teams advancing. The league format starts each regular-season tie with women’s doubles, then men’s doubles and two mixed doubles; all games count, and a 2–2 tie goes to a DreamBreaker. The finals use best-of-five team matches. This format guide avoids relying on an earlier match schedule that has since changed.",
+      "summary_zh": "MLP Asia 首届总决赛计划于12月11日至12日在吉隆坡 Tomaz Pickleball Club 举行，六支球队中的四支将从常规赛晋级。联赛公布的赛制规定，每场常规赛先打女子双打，再进行男子双打和两场混双；四场比赛都计入积分，若战成2比2则进入 DreamBreaker 决胜。总决赛采用五局三胜的队际赛制。本篇聚焦赛制，不依赖联赛此前已发生变化的比赛日程。",
+      "why": "A practical guide to how women’s doubles and every game shape the standings on the road to MLP Asia’s inaugural title.",
+      "why_zh": "这则赛制说明解释了女子双打和每一局比赛如何影响 MLP Asia 首届冠军的晋级之路。",
+      "category": "News",
+      "source": "MLP Asia",
+      "url": "https://mlp-asia.com/from-tokyo-to-the-title-the-road-to-the-mlp-asia-finals",
+      "published_at": "2026-11-12",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "a7fb5de0ce5d"
+    },
+    {
+      "title": "Li-Ning, Skechers, and venue operators pursue different paths in China’s pickleball market",
+      "title_zh": "李宁、斯凯奇与场馆运营方在中国匹克球市场采取不同布局",
+      "summary": "A Nov. 16 剁椒Spicy report republished by 36Kr examines how brands and operators are building around pickleball in China. It says Li-Ning’s China Tennis Association sponsorship runs through 2032, Skechers has expanded PPA Asia event partnerships across cities, and Orange Lion Sports entered through event and venue collaborations. The article describes strategies spanning sponsorship, retail, and club experiences; its market-size estimates and anonymous-source claims are not repeated here.",
+      "summary_zh": "剁椒Spicy 于11月16日发布、由36氪授权转载的一篇报道，分析品牌与运营方如何布局中国匹克球市场。报道称，李宁与中国网球协会的赞助合作持续至2032年；斯凯奇已将与 PPA Asia 的赛事合作扩展到多个城市；橙狮体育则从赛事和场馆合作切入。文章呈现了长期赛事赞助、零售渠道和俱乐部体验等不同布局；本文不转述其中的市场规模估算及匿名人士说法。",
+      "why": "A reader-requested industry story that connects sponsorship, retail strategy, and venue operations while separating reported specifics from estimates and anonymous claims.",
+      "why_zh": "这则行业报道回应了读者对产业动态的关注，梳理赛事赞助、零售策略和场馆运营，并将报道中的具体信息与估算、匿名说法区分开。",
+      "category": "Trends",
+      "source": "剁椒Spicy, republished by 36Kr",
+      "url": "https://www.36kr.com/p/4071985467873157",
+      "published_at": "2026-11-16",
+      "kind": "news",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "56d673db58f9"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.pickle361.com/blogs/news/toi-sieu-ee-launches-the-court-edit-vol-1-with-friday-pickleball-asia",
+      "checked_at": "2026-11-16",
+      "notes": "Read Andrew Lee’s Nov. 4 article. It names the creator and brand, describes pictured garments and colors, says the limited-time capsule launched that day, and states the article is based on social-media posts and tracked historical data. No garment performance testing is reported."
+    },
+    {
+      "url": "https://pickleball.com/culture/inside-jewell-loyds-passion-for-pickleball",
+      "checked_at": "2026-11-16",
+      "notes": "Read Will Daughton’s Nov. 12 profile. It reports Loyd’s pickleball rating, her Miami Pickleball Club ownership role, her appearance on the JOOLA/TOGETHXR panel, and her stated view of the sport’s inclusive appeal."
+    },
+    {
+      "url": "https://mlp-asia.com/from-tokyo-to-the-title-the-road-to-the-mlp-asia-finals",
+      "checked_at": "2026-11-16",
+      "notes": "Read MLP Asia’s Nov. 12 format and finals announcement. It lists the Dec. 11–12 Kuala Lumpur finals, four qualifiers, women's-doubles-first sequence, four counted regular-season games, DreamBreaker tiebreak, and finals match format. Its pre-event match-day schedule is not used."
+    },
+    {
+      "url": "https://www.36kr.com/p/4071985467873157",
+      "checked_at": "2026-11-16",
+      "notes": "Read the full Nov. 16 剁椒Spicy report republished by 36Kr. It discusses Li-Ning/China Tennis Association sponsorship through 2032, Skechers multi-city PPA Asia cooperation, and Orange Lion Sports event/venue work. The article also includes estimates and anonymous-source claims; those were excluded from the story summary."
+    }
+  ]
+}
