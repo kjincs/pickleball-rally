@@ -1,0 +1,98 @@
+{
+  "id": "2026-11-20-145326-eaba92",
+  "date": "2026-11-20",
+  "created_at": "2026-11-20T14:53:26.552900+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "The 15 valid reviews from two readers now emphasize capital and major industry developments, welcome important JOOLA moves, and caution against treating one city’s program as an industry-wide trend. This edition follows that direction with a paddle-industry case update and a reported acquisition, while keeping the request for women’s fashion and adding a broader cross-border youth story.",
+  "feedback_note_zh": "两位读者共留下15条有效反馈，最新意见关注资本和重要行业动向，认可 JOOLA 的重要举措，也提醒不要把单个城市的项目说成行业整体趋势。本期因此加入球拍行业案件进展、品牌收购报道，同时继续关注女性穿搭，并补充一则视野更广的跨国青少年交流故事。",
+  "review_count": 15,
+  "stories": [
+    {
+      "title": "USITC closes the paddle case against Friday Labs under a consent order",
+      "title_zh": "美国国际贸易委员会依同意令终止对 Friday Labs 的球拍调查",
+      "summary": "The U.S. International Trade Commission said on Nov. 17 it would not review an administrative judge’s order terminating the pickleball-paddle investigation as to Friday Labs, after a consent order and settlement agreement. JOOLA’s complaint alleges patent infringement involving imported paddles; those allegations are not findings of infringement. The order resolves Friday Labs’ status in the investigation, not the merits of the broader case.",
+      "summary_zh": "美国国际贸易委员会11月17日表示，不复审行政法官关于终止对 Friday Labs 调查的决定；该决定依据同意令和和解协议作出。JOOLA 的投诉指称部分进口球拍侵犯专利，但这些指称并非侵权认定。该命令处理的是 Friday Labs 在调查中的状态，并未裁定更广泛案件的实体争议。",
+      "why": "A primary-source update on paddle-industry litigation, carefully separating an allegation, a consent-based termination, and a finding on the merits.",
+      "why_zh": "这则球拍行业诉讼的官方进展，区分了投诉指称、基于同意令的终止和实体裁决。",
+      "category": "News",
+      "source": "U.S. International Trade Commission",
+      "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1503_notice11172026sgl.pdf",
+      "published_at": "2026-11-17",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "0374007df2be"
+    },
+    {
+      "title": "P3 agrees to acquire Professor Pickleball’s accessories and learning brand",
+      "title_zh": "P3 同意收购 Professor Pickleball 配件与教学内容品牌",
+      "summary": "Professional Pickleball Partners (P3) announced an agreement on Nov. 4 to acquire Professor Sports, the company behind Professor Pickleball. The brand sells paddle grips and erasers and publishes instructional content; P3 says it plans to expand its distribution while keeping the brand’s identity and continuing its educational work. The announcement disclosed no financial terms and describes an agreement, not a confirmed completed deal.",
+      "summary_zh": "Professional Pickleball Partners（P3）11月4日宣布，已达成收购 Professor Sports 的协议；该公司运营 Professor Pickleball 品牌。该品牌销售球拍握把、清洁橡皮等配件，并发布教学内容。P3 表示计划扩大其分销，同时保留品牌特色并延续教学内容。公告没有披露交易金额，所述仍是收购协议，并未确认交易已完成。",
+      "why": "A reader-requested industry transaction that combines consumer accessories with player education; the buyer’s claims and undisclosed terms are made explicit.",
+      "why_zh": "这则收购消息回应了读者对行业交易的关注，涉及配件与球员教育内容，并说明了买方表述和未公开的交易条款。",
+      "category": "Trends",
+      "source": "Professional Pickleball Partners via EIN Presswire",
+      "url": "https://atlanta.newsnetmedia.com/story/420977/professional-pickleball-partners-announces-acquisition-of-professor-pickleball",
+      "published_at": "2026-11-04",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "brand",
+      "id": "47cc3b7c5ad5"
+    },
+    {
+      "title": "FUNARI’s NYFW collection mixes pickleball looks with inclusive design details",
+      "title_zh": "FUNARI 纽约时装周系列融合匹克球穿搭与包容性设计",
+      "summary": "A Daniel+Lauren report from the Oct. 28 Fusion Fashion activewear show at New York Fashion Week describes FUNARI NEW YORK’s spring/summer 2027 racquet-sport collection. The women’s pieces include corset-cut warm-up jackets, bra-and-skirt sets, and pleated dresses with pockets for balls or scorecards. The article says one reversible bra offers prosthesis options for breast-cancer survivors. These are reported design details and brand claims, not independent performance testing.",
+      "summary_zh": "Daniel+Lauren 报道了10月28日纽约时装周 Fusion Fashion 运动服饰展示中出现的 FUNARI NEW YORK 2027春夏球拍运动系列。女款包括紧身胸衣剪裁的热身夹克、运动内衣与裙装套组，以及带有球或记分卡口袋的百褶连衣裙。报道还称，一款可反穿运动内衣提供适用于乳腺癌康复者假体的设计选项。以上为报道中的设计细节和品牌说法，并非独立性能测试。",
+      "why": "A fresh court-style story with concrete silhouettes, practical pockets, and an adaptive design detail useful to women players.",
+      "why_zh": "这则新近的球场时尚报道提供具体版型、实用口袋和适应性设计细节，贴近女性球员需求。",
+      "category": "Style",
+      "source": "Daniel Quintanilla, Daniel+Lauren",
+      "url": "https://danielpluslauren.com/2026/10/28/funari-new-york-serves-up-pickleball-collection-with-fusion-fashion-at-nyfw-ss27",
+      "published_at": "2026-10-28",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "b4e4ba0eaf1b"
+    },
+    {
+      "title": "A reported youth exchange puts pickleball at the center of cross-cultural play",
+      "title_zh": "一则青少年交流报道呈现匹克球如何连接跨文化互动",
+      "summary": "A Nov. 20 Yunnan Net report, credited to the People’s Political Consultative Daily, revisits a February exchange in which 64 teenagers from Shanghai and the Washington, D.C. area played mixed doubles together. The article connects that match to a recent Shanghai Huangpu district discussion about expanding youth exchanges and collaborative projects. It is a reported example of one exchange, not evidence that similar programs are widespread.",
+      "summary_zh": "云南网11月20日转载并注明来源为《人民政协报》的报道，回顾了今年2月上海与美国华盛顿地区64名青少年进行混合双打交流的经历。文章将这场比赛与近期上海黄浦区关于拓展青少年交流和合作项目的讨论联系起来。这是对一次交流活动的报道，不能据此推断类似项目已普遍开展。",
+      "why": "An exploratory, human-scale story shows a distinctive way people used pickleball for cross-cultural contact, without claiming it represents a broad trend.",
+      "why_zh": "这则探索性人物故事呈现了人们借匹克球开展跨文化交流的一种方式，同时避免将个案说成普遍趋势。",
+      "category": "Community",
+      "source": "人民政协报, via 云南网",
+      "url": "https://news.yunnan.cn/system/2026/11/20/034199182.shtml",
+      "published_at": "2026-11-20",
+      "kind": "news",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "ecf919f168aa"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.usitc.gov/secretary/fed_reg_notices/337/337_1503_notice11172026sgl.pdf",
+      "checked_at": "2026-11-20",
+      "notes": "Read the full USITC notice issued Nov. 17. It terminates the investigation as to Friday Labs based on consent/settlement documents, identifies JOOLA as complainant and summarizes its patent allegations. The notice does not decide infringement on the merits."
+    },
+    {
+      "url": "https://atlanta.newsnetmedia.com/story/420977/professional-pickleball-partners-announces-acquisition-of-professor-pickleball/",
+      "checked_at": "2026-11-20",
+      "notes": "Read the Nov. 4 P3 release distributed by EIN Presswire. It describes an agreement to acquire Professor Sports, the product and instructional-content portfolio, planned distribution support, and that no financial terms were announced. Treated as a buyer announcement, not independently verified completion."
+    },
+    {
+      "url": "https://danielpluslauren.com/2026/10/28/funari-new-york-serves-up-pickleball-collection-with-fusion-fashion-at-nyfw-ss27/",
+      "checked_at": "2026-11-20",
+      "notes": "Read Daniel Quintanilla’s Oct. 28 report on FUNARI’s Fusion Fashion show at NYFW. It describes women’s jackets, bra/skirt sets, pocketed dresses, and the brand’s reversible-bra prosthesis option. Claims about materials, UV protection, and performance were not repeated."
+    },
+    {
+      "url": "https://news.yunnan.cn/system/2026/11/20/034199182.shtml",
+      "checked_at": "2026-11-20",
+      "notes": "Read the full Yunnan Net report dated Nov. 20 and credited to the People’s Political Consultative Daily. It recounts 64 teens playing U.S.–China mixed doubles during a February exchange and places that example in a district consultation about broader youth exchange; it does not establish prevalence."
+    }
+  ]
+}
