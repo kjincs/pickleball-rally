@@ -1,0 +1,119 @@
+{
+  "id": "2026-11-19-000044-0bdbd4",
+  "date": "2026-11-19",
+  "created_at": "2026-11-20T00:00:44.316546+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "The latest of 12 valid reviews from two readers asks for more fashion coverage, reinforcing the earlier preference for women’s court style. This edition adds a reported women’s apparel launch, a Chinese community rollout with a broad participation model, and current governance and league developments. Brand and league announcements are labeled as such.",
+  "feedback_note_zh": "两位读者共留下12条有效反馈，最新留言希望增加时尚内容，也延续了此前对女性球场穿搭的关注。本期加入女性运动服饰新品报道、中国社区推广案例，以及匹克球组织与职业联赛的最新动向，并注明品牌和联盟公告的来源属性。",
+  "review_count": 12,
+  "stories": [
+    {
+      "title": "USA Pickleball adds investment and sports leaders to its board",
+      "title_zh": "美国匹克球协会董事会将迎来投资与体育行业高管",
+      "summary": "USA Pickleball announced that venture investor David Horowitz and sports executive Blair Tripodi will join its board on Jan. 1, 2027. Horowitz brings early-stage investment experience; Tripodi has held leadership roles at Nike, the U.S. Olympic Committee, and Under Armour. The association frames the appointments as strengthening its business, sports, and organizational expertise. This is an official governance announcement, not an independent assessment of the board’s future impact.",
+      "summary_zh": "USA Pickleball 宣布，风险投资人 David Horowitz 和体育行业高管 Blair Tripodi 将于2027年1月1日加入董事会。Horowitz 有早期投资经验；Tripodi 曾在 Nike、美国奥委会和 Under Armour 担任领导职务。协会称，此次任命将加强其在商业、体育和组织管理方面的经验。这是协会发布的治理消息，并非对新董事未来影响的独立评估。",
+      "why": "The appointments offer a current view of the business and sports expertise entering pickleball’s U.S. governing body.",
+      "why_zh": "这次任命展现了进入美国匹克球管理机构的商业与体育行业经验，属于值得跟进的治理动向。",
+      "category": "News",
+      "source": "USA Pickleball",
+      "url": "https://usapickleball.org/usap-news/usa-pickleball-announces-david-horowitz-and-blair-tripodi-to-board-of-directors",
+      "published_at": "2026-11-19",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "45b815ea766f"
+    },
+    {
+      "title": "MLP appoints a commissioner as its senior team expands roles",
+      "title_zh": "MLP 任命新专员，并调整高层职责分工",
+      "summary": "Major League Pickleball named Tanner Groff commissioner on Nov. 16. The league says he will lead league operations, owner relations, and on-court competition. MLP also announced that Zach Gallin will oversee event operations and fan experience, while Courtney Johnson will lead team competition and officiating. These leadership assignments may shape how the league organizes its next season; the release is the league’s own announcement.",
+      "summary_zh": "Major League Pickleball 于11月16日任命 Tanner Groff 为专员。联盟称，他将负责联盟运营、球队所有者关系和场上竞赛事务。MLP 还宣布，Zach Gallin 将负责赛事运营与观赛体验，Courtney Johnson 将负责球队竞赛及裁判事务。这些管理职责可能影响联盟下赛季的组织方式；相关消息来自联盟官方公告。",
+      "why": "A concrete leadership change at a major league, including a woman’s expanded role in competition and officiating.",
+      "why_zh": "这则主要职业联赛的人事变动也包括女性管理者在竞赛与裁判事务中的新职责。",
+      "category": "News",
+      "source": "Major League Pickleball",
+      "url": "https://majorleaguepickleball.co/news/major-league-pickleball-names-tanner-groff-commissioner",
+      "published_at": "2026-11-16",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "aafdd610b0a5"
+    },
+    {
+      "title": "Franklin Malaysia’s women’s line pairs pleated skirts with three top styles",
+      "title_zh": "Franklin 马来西亚女装系列推出三款上衣与百褶裙搭配",
+      "summary": "Pickle361 reports that Franklin Pickleball Malaysia released a women’s sportswear collection on Oct. 30. Its eight top-and-pleated-skirt sets span three designs: a sleeveless square neck, a sleeveless collar, and a short-sleeve zip-up, in colors including white, light blue, cream, plum, sage, and black. The article is based on the brand’s social posts and lists online and in-person purchase routes. These are launch details, not an independent test of fabric or performance claims.",
+      "summary_zh": "Pickle361 报道，Franklin Pickleball Malaysia 于10月30日推出女性运动服饰系列。八套上衣与百褶裙组合包含三种上衣设计：方领无袖、翻领无袖和短袖拉链款，颜色包括白色、浅蓝、奶油色、梅紫、鼠尾草绿和黑色。报道依据品牌社交媒体内容，并列出线上及线下购买方式。这是新品信息，并非对面料或性能宣传的独立测试。",
+      "why": "It answers the request for more women’s fashion with specific silhouettes and colors, while making the reporting basis clear.",
+      "why_zh": "这则报道回应了增加女性时尚内容的反馈，提供具体版型与配色，也说明了报道依据。",
+      "category": "Style",
+      "source": "Andrew Lee, Pickle361",
+      "url": "https://www.pickle361.com/blogs/news/franklin-womens-collection-three-designs-eight-sets",
+      "published_at": "2026-11-01",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "6b379730ee6a"
+    },
+    {
+      "title": "Kunming’s ‘Pickleball for Every Home’ plan takes play into daily spaces",
+      "title_zh": "昆明“匹克球进万家”计划把运动带进社区日常场景",
+      "summary": "A Nov. 12 report by Kunming outlet Kaiping News says Guandu district launched a ‘Five Into’ outreach plan spanning communities, schools, companies, government offices, and shopping areas. Organizers reportedly gave equipment to community residents, delivery workers, students, and workers. A Dec. 12–13 community tournament will include multiple age groups, women’s doubles, mixed doubles, and parent-child doubles. This is a reported local model; the article does not state expected participation.",
+      "summary_zh": "昆明媒体开屏新闻11月12日报道，官渡区启动“匹克球五进”推广计划，覆盖社区、学校、企业、机关和商圈。报道称，活动方为社区居民、外卖与快递人员、学生和工人代表赠送了装备。12月12日至13日举行的社区运动会面向多个年龄段，设有女子双打、混合双打和亲子双打。这是媒体报道的地方推广模式，报道没有说明未来实际参与人数。",
+      "why": "A distinct community example shows how pickleball can be brought into everyday public settings, with women’s and family formats included.",
+      "why_zh": "这是一个有辨识度的社区推广案例，展示匹克球如何进入日常公共空间，并纳入女子与亲子项目。",
+      "category": "Community",
+      "source": "孙江荭, 开屏新闻",
+      "url": "https://www.ccwb.cn/content/202611/12/c936382.html",
+      "published_at": "2026-11-12",
+      "kind": "news",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "ba7c43d7f3d1"
+    },
+    {
+      "title": "USA Pickleball and JOOLA commit annual equipment support for access programs",
+      "title_zh": "USA Pickleball 与 JOOLA 承诺每年为推广项目提供器材",
+      "summary": "In a Nov. 17 announcement, USA Pickleball and JOOLA said JOOLA will provide $150,000 worth of equipment each year to USA Pickleball Serves programs supporting youth, schools, service members, first responders, adaptive play, and community grants. The organizations also described plans involving coach education and player development. This is a partnership commitment announced by the two parties; it is not an audited report of equipment already distributed.",
+      "summary_zh": "USA Pickleball 与 JOOLA 于11月17日宣布，JOOLA 将每年向 USA Pickleball Serves 提供价值15万美元的器材，用于支持青少年和学校、军人、急救人员、适应性匹克球和社区资助项目。双方还提到教练教育与球员发展的合作计划。这是双方公布的合作承诺，并非已经发放器材的审计报告。",
+      "why": "The announced annual equipment commitment makes the partnership’s intended community reach more concrete and measurable over time.",
+      "why_zh": "每年提供器材的承诺让这项合作计划服务社区的方式更具体，也便于今后跟进。",
+      "category": "Community",
+      "source": "USA Pickleball and JOOLA",
+      "url": "https://usapickleball.org/usap-news/partnerships/usa-pickleball-and-joola-join-forces-to-grow-the-game-expanding-access-for-youth-service-members-and-adaptive-players",
+      "published_at": "2026-11-17",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "9bcd2b3c03a6"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://usapickleball.org/usap-news/usa-pickleball-announces-david-horowitz-and-blair-tripodi-to-board-of-directors/",
+      "checked_at": "2026-11-19",
+      "notes": "Read the USA Pickleball announcement dated Nov. 19. It identifies the two appointees, their start date, experience, and the association's stated rationale. The story summary distinguishes the association’s rationale from independent assessment."
+    },
+    {
+      "url": "https://majorleaguepickleball.co/news/major-league-pickleball-names-tanner-groff-commissioner/",
+      "checked_at": "2026-11-19",
+      "notes": "Read MLP’s Nov. 16 release. It states Groff’s responsibilities, Gallin’s expanded events remit, and Johnson’s promotion covering team competition and officiating. No league performance claims are repeated."
+    },
+    {
+      "url": "https://www.pickle361.com/blogs/news/franklin-womens-collection-three-designs-eight-sets",
+      "checked_at": "2026-11-19",
+      "notes": "Read Andrew Lee’s Nov. 1 article. It reports an Oct. 30 launch, eight sets in three design types, colorways, sales/try-on locations, and that the article relies on the brand’s social posts. The summary excludes unverified performance claims."
+    },
+    {
+      "url": "https://www.ccwb.cn/content/202611/12/c936382.html",
+      "checked_at": "2026-11-19",
+      "notes": "Read Sun Jianghong’s Nov. 12 Kaiping News report. It describes the Guandu ‘Five Into’ outreach plan, recipient groups for donated equipment, dates, age/team structures, and women’s doubles/parent-child events. Participation projections are not stated."
+    },
+    {
+      "url": "https://usapickleball.org/usap-news/partnerships/usa-pickleball-and-joola-join-forces-to-grow-the-game-expanding-access-for-youth-service-members-and-adaptive-players/",
+      "checked_at": "2026-11-19",
+      "notes": "Read the USA Pickleball announcement dated Nov. 17. It states JOOLA’s annual $150,000 equipment commitment, intended recipient programs, and planned education collaborations. Treated as a commitment by the parties, not proof of completed distribution."
+    }
+  ]
+}
