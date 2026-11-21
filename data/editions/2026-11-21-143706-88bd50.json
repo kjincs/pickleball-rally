@@ -1,0 +1,77 @@
+{
+  "id": "2026-11-21-143706-88bd50",
+  "date": "2026-11-21",
+  "created_at": "2026-11-21T14:37:06.821915+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "This edition applies the 15 valid reviews by prioritizing women-focused style and meaningful industry developments, while avoiding small local events as evidence of broad trends. Three stories passed checks today.",
+  "feedback_note_zh": "本期参考15条有效评价，优先关注女性相关风格与重要行业动态，不把单一城市活动当作行业趋势。今天有三篇内容通过查证。",
+  "review_count": 15,
+  "stories": [
+    {
+      "title": "JOOLA and TOGETHXR put women’s pickleball stories on a bigger stage",
+      "title_zh": "JOOLA与TOGETHXR携手，让更多人看见匹克球女性",
+      "summary": "JOOLA and women’s sports media company TOGETHXR announced a long-term partnership called “She’s Got a Point,” spotlighting women from pro tours to local courts. Its launch at the 2026 Pickleball World Championships included athlete meetups, girls’ clinics, conversations, and a limited co-branded capsule. The announcement cites an industry participation survey; the campaign itself is a brand initiative.",
+      "summary_zh": "JOOLA与女性体育媒体TOGETHXR宣布长期合作项目“She’s Got a Point”，关注从职业巡回赛到社区球场的女性球员。项目在2026匹克球世界锦标赛期间启动，安排了运动员交流、女孩体验课、对谈及限量联名系列。报道中的女性参与数据来自行业调查；该项目本身属于品牌合作。",
+      "why": "A women-centered campaign combines storytelling, community programming, and apparel, giving readers a concrete example of how brands are trying to grow women’s visibility in the sport.",
+      "why_zh": "这项女性主题合作把内容传播、社区活动和服饰结合起来，展示品牌如何尝试提升女性在这项运动中的能见度。",
+      "category": "Style",
+      "source": "Team JOOLA",
+      "url": "https://joola.com/blogs/blog/joola-and-togethxr-launch-shes-got-a-point-to-elevate-the-women-shaping-pickleball",
+      "published_at": "2026-10-28",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "brand",
+      "id": "59903c77852a"
+    },
+    {
+      "title": "APP names U.S. and European teams for December’s Atlantic Cup",
+      "title_zh": "APP公布12月大西洋杯美欧阵容",
+      "summary": "The Association of Pickleball Players announced six-player rosters for Team USA and Team Europe ahead of the Dec. 4 Atlantic Cup in Fort Lauderdale, with a CBS broadcast scheduled for Dec. 5. The selections include leading women such as Kat Stewart, Megan Fudge, and Domenika Turkovic, alongside other APP Tour standouts. The event is staged alongside the APP Tour Championships.",
+      "summary_zh": "美国匹克球运动员协会（APP）公布了美国队和欧洲队各六名球员的阵容。大西洋杯将于12月4日在劳德代尔堡举行，CBS计划于12月5日播出。入选的女子球员包括Kat Stewart、Megan Fudge和Domenika Turkovic等巡回赛名将。赛事与APP巡回赛总决赛同期举办。",
+      "why": "The roster offers a timely look at an international team format and highlights women who will be central to the upcoming televised event.",
+      "why_zh": "这份名单让读者提前了解国际队际赛制，也介绍了即将参加电视转播赛事的女子球员。",
+      "category": "News",
+      "source": "Association of Pickleball Players (APP)",
+      "url": "https://theapp.global/news/2026-atlantic-cup-rosters-announced",
+      "published_at": "2026-11-19",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "461fb031131a"
+    },
+    {
+      "title": "China Fund News examines pickleball’s shift from buzz to business",
+      "title_zh": "中国基金报观察匹克球从热潮走向产业化",
+      "summary": "This Chinese-language industry report tracks recent investment, brand activity, court supply, and event growth in China’s pickleball market. It cites industry estimates of more than 12,000 standard courts and over 1,000 China Pickleball Circuit events in 2026, while noting that low equipment spending and repeat-play habits remain business challenges. The figures are the outlet’s reported estimates, not independently audited totals.",
+      "summary_zh": "这篇中文行业报道梳理了中国匹克球市场近期的投资、品牌布局、场地供给和赛事增长。报道援引行业数据称，2026年标准球场超过1.2万片、中国匹克球巡回赛超过1000站；同时指出，装备消费金额偏低、能否形成稳定日常参与仍是商业挑战。相关数字为媒体报道的行业估算，并非独立审计总量。",
+      "why": "It pairs signs of expansion with questions about retention and equipment economics, offering a more measured view of the market than growth headlines alone.",
+      "why_zh": "报道既呈现增长迹象，也讨论用户留存和装备消费，帮助读者更全面地看待市场，而不只看增长数字。",
+      "category": "Trends",
+      "source": "China Fund News (中国基金报), Zhao Xinyi",
+      "url": "https://www.chnfund.com/article/ARe4f59ab6-b44b-f49e-f75c-3a25052118c3",
+      "published_at": "2026-11-19",
+      "kind": "news",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "16d4c13fd746"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://joola.com/blogs/blog/joola-and-togethxr-launch-shes-got-a-point-to-elevate-the-women-shaping-pickleball",
+      "checked_at": "2026-11-21",
+      "notes": "Read the official JOOLA release. Confirmed Oct. 28 date, long-term women-focused partnership, women athletes, girls' clinics, and limited co-branded apparel; the Dallas launch dates have passed."
+    },
+    {
+      "url": "https://theapp.global/news/2026-atlantic-cup-rosters-announced",
+      "checked_at": "2026-11-21",
+      "notes": "Read APP's Nov. 19 roster announcement. Confirmed both team rosters, named women players, Dec. 4 match, Dec. 5 CBS slot, and event timing alongside APP Tour Championships."
+    },
+    {
+      "url": "https://www.chnfund.com/article/ARe4f59ab6-b44b-f49e-f75c-3a25052118c3",
+      "checked_at": "2026-11-21",
+      "notes": "Read China Fund News report dated Nov. 19 by Zhao Xinyi. Checked its stated market estimates for courts and CPC events, brand/investment examples, and its caveat about low equipment spend and retention."
+    }
+  ]
+}
