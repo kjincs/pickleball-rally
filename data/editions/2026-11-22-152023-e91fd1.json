@@ -1,0 +1,82 @@
+{
+  "id": "2026-11-22-152023-e91fd1",
+  "date": "2026-11-22",
+  "created_at": "2026-11-22T15:20:23.205207+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "This edition reflects 16 valid reviews, including new positive feedback for women-focused pickleball. To avoid repeating a recent World Championships fashion feature, it adds a new Chinese-language player profile, a national-level sport update, and one clearly scoped local community story.",
+  "feedback_note_zh": "本期参考16条有效评价，包括对女性匹克球内容的最新肯定。为避免重复近期已刊出的世锦赛穿搭报道，本期改为介绍一位中文报道中的女球员、国家级赛事动态，以及一则明确标注地域范围的社区故事。",
+  "review_count": 16,
+  "stories": [
+    {
+      "title": "Hong Kong student Liang Yalin moves from tennis to the pickleball world stage",
+      "title_zh": "香港学生梁雅琳从网球转战匹克球，半年登上国际赛场",
+      "summary": "Sing Tao’s Chinese-language profile follows Liang Yalin, a Hong Kong Baptist University sport-management student who played tennis for 12 years before switching to pickleball this year. Within months, she represented Hong Kong in the U18 division at the September Pickleball World Cup, helping the team reach the quarterfinals. At the Hong Kong Slam, she earned U18 women’s doubles and mixed doubles titles and placed second in women’s singles.",
+      "summary_zh": "星岛的中文人物报道介绍了香港浸会大学体育及康乐管理专业学生梁雅琳。她有12年网球经历，今年转战匹克球；数月后代表香港参加9月匹克球世界杯U18组，协助队伍闯入八强。她还在香港大满贯中获得U18女子双打和混双冠军，并取得女子单打亚军。",
+      "why": "Her transition offers a specific, first-person-grounded story about how a young woman adapted a long tennis background to a new racket sport.",
+      "why_zh": "这段经历具体呈现了一位年轻女性如何把长期网球训练经验转化为匹克球竞争力。",
+      "category": "Community",
+      "source": "Sing Tao Headline (星岛头条), Sing Tao Education",
+      "url": "https://www.stheadline.com/zh-hans/academic-elites/3635762/%E5%8C%B9%E5%85%8B%E7%90%83%E6%B5%B8%E5%A4%A7%E4%BD%93%E8%82%B2%E5%8F%8A%E5%BA%B7%E4%B9%90%E7%AE%A1%E7%90%86%E7%94%9F%E6%A2%81%E9%9B%85%E7%90%B3-12%E5%B9%B4%E7%BD%91%E7%90%83%E7%BB%8F%E9%AA%8C%E8%BD%AC%E8%B7%91%E9%81%93-%E5%8A%A9%E5%8C%B9%E5%85%8B%E7%90%83%E6%B8%AF%E9%98%9F%E6%89%93%E5%85%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA",
+      "published_at": "2026-11-11",
+      "kind": "news",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "ddb68ab4aa1d"
+    },
+    {
+      "title": "Pickleball gets five medal events at Vietnam’s National Sports Games",
+      "title_zh": "匹克球首次进入越南全国运动会，设五个奖牌项目",
+      "summary": "Vietnam’s 10th National Sports Games will feature pickleball for the first time, with more than 100 athletes from 11 units expected to compete in Ho Chi Minh City from Dec. 3–9. The five medal events are men’s and women’s singles, men’s and women’s doubles, and mixed doubles. The Vietnamese sports outlet frames the Games as a chance for teams to assess talent and develop the sport nationally.",
+      "summary_zh": "越南第十届全国运动会将首次把匹克球列为正式比赛项目，预计有来自11个单位的100多名运动员，于12月3日至9日在胡志明市角逐。五个奖牌项目为男、女单打，男、女双打及混双。越南体育媒体指出，这项赛事也为各代表队评估人才、推动全国发展提供机会。",
+      "why": "A new national multi-sport event is a meaningful institutional milestone, and its women’s singles and doubles categories make the inclusion especially relevant to women players.",
+      "why_zh": "匹克球进入全国综合性运动会，是一项重要的制度性进展；赛事还设有女单和女双项目，与女性球员直接相关。",
+      "category": "News",
+      "source": "Vietnam.vn (source: Báo Văn Hóa)",
+      "url": "https://www.vietnam.vn/en/dan-sao-pickleball-viet-nam-hoi-tu-tai-dai-hoi-the-thao-toan-quoc-2026",
+      "published_at": "2026-11-17",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "cf6794f2ab64"
+    },
+    {
+      "title": "A Hawaiʻi pickleball fundraiser keeps a volunteer’s community legacy alive",
+      "title_zh": "夏威夷匹克球慈善赛延续志愿者的社区心愿",
+      "summary": "Breast Cancer Hawaiʻi says its fourth annual Jaf’s Dink in Pink tournament combines pickleball, local vendors and community fundraising in memory of volunteer Jafra Depontes, who created the event in 2023. The nonprofit states that all proceeds stay in Hawaiʻi to support local patients, survivors and families. This is one local community example, not a measure of a wider industry trend.",
+      "summary_zh": "夏威夷乳腺癌公益组织介绍，其第四届Jaf’s Dink in Pink匹克球赛结合运动、当地商家和社区募款，以纪念2023年创办赛事的志愿者Jafra Depontes。组织称，所有款项都会留在夏威夷，用于支持当地患者、康复者及其家人。这是一则地方社区案例，不代表整个行业趋势。",
+      "why": "It shows how one recurring pickleball event can honor a volunteer and direct community activity toward a clearly identified local nonprofit purpose.",
+      "why_zh": "这个持续举办的赛事展示了匹克球活动如何纪念志愿者，并支持目标明确的地方公益组织。",
+      "category": "Community",
+      "source": "Breast Cancer Hawaiʻi",
+      "url": "https://www.breastcancerhawaii.org/dip",
+      "published_at": null,
+      "kind": "evergreen",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "5b5e0ce1a28b"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.stheadline.com/zh-hans/academic-elites/3635762/%E5%8C%B9%E5%85%8B%E7%90%83%E6%B5%B8%E5%A4%A7%E4%BD%93%E8%82%B2%E5%8F%8A%E5%BA%B7%E4%B9%90%E7%AE%A1%E7%90%86%E7%94%9F%E6%A2%81%E9%9B%85%E7%90%B3-12%E5%B9%B4%E7%BD%91%E7%90%83%E7%BB%8F%E9%AA%8C%E8%BD%AC%E8%B7%91%E9%81%93-%E5%8A%A9%E5%8C%B9%E5%85%8B%E7%90%83%E6%B8%AF%E9%98%9F%E6%89%93%E5%85%A5%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA",
+      "checked_at": "2026-11-22",
+      "notes": "Read the Chinese original's structured article body. Confirmed 12-year tennis history, 2026 switch, U18 World Cup quarterfinal, and Hong Kong Slam U18 women's doubles/mixed titles plus women's singles runner-up."
+    },
+    {
+      "url": "https://www.vietnam.vn/en/dan-sao-pickleball-viet-nam-hoi-tu-tai-dai-hoi-the-thao-toan-quoc-2026",
+      "checked_at": "2026-11-22",
+      "notes": "Read the Nov. 17 English-language translation from Báo Văn Hóa. Confirmed first-time National Games inclusion, expected 100+ athletes from 11 units, Dec. 3–9 dates, and five medal categories."
+    },
+    {
+      "url": "https://dhx.tdtt.gov.vn/Portals/0/files/So%20tay%20tuyen%20truyen%209.11.pdf?ver=9Ift65aAHZkdFrMKAyLV1w%3D%3D",
+      "checked_at": "2026-11-22",
+      "notes": "Checked the Vietnam Sports Administration's National Games handbook PDF; the official schedule lists pickleball on Dec. 3–9, 2026, corroborating the report's dates."
+    },
+    {
+      "url": "https://www.breastcancerhawaii.org/dip",
+      "checked_at": "2026-11-22",
+      "notes": "Read the organizer's official page. Confirmed the fourth annual event, created in 2023 by volunteer Jafra Depontes, and the nonprofit's statement that proceeds stay in Hawaiʻi for local patient and family programs. The page has no general publication date."
+    }
+  ]
+}
