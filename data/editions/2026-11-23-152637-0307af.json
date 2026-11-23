@@ -1,0 +1,77 @@
+{
+  "id": "2026-11-23-152637-0307af",
+  "date": "2026-11-23",
+  "created_at": "2026-11-23T15:26:37.210091+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "18 recent valid reviews were available. The latest readers liked coverage of a women's pickleball organization and the sport's inclusion in a national event, and chose to keep the mix. This edition pairs a working pro's story with a clearly labeled paddle launch and one specifically local Chinese community event.",
+  "feedback_note_zh": "本期参考了18条近期有效反馈。最新留言认可女性匹克球组织及匹克球进入全国赛事的内容，并选择保持题材多样。本期兼顾职业球员故事、明确标注的球拍发布，以及一则明确属于北京本地的社区赛事报道。",
+  "review_count": 18,
+  "stories": [
+    {
+      "title": "Andie Dikosavljevic balances pro pickleball with a consulting career",
+      "title_zh": "安迪·迪科萨夫列维奇如何兼顾职业匹克球与咨询工作",
+      "summary": "Australian pro Andie Dikosavljevic works as a management consultant on digital-health projects while competing on the PPA circuit. The DUPR profile recounts her tennis background and recent PPA titles, and describes how film study and focused singles sessions help her prepare. DUPR is also the sport's rating platform, so readers should view this as a profile from an industry organization, not independent reporting.",
+      "summary_zh": "澳大利亚职业球员安迪·迪科萨夫列维奇一边参加 PPA 巡回赛，一边从事数字健康项目管理咨询。DUPR 的人物报道介绍了她的网球经历和近期 PPA 赛场成绩，也提到她通过观看比赛录像和安排专项单打训练来备战。DUPR 本身也是匹克球评分平台，因此这篇内容应视为行业机构的人物专访，而非独立调查报道。",
+      "why": "A grounded look at the people and practice behind a pro career, including how one player manages sport alongside another demanding job.",
+      "why_zh": "这篇人物报道呈现职业球员的训练与日常，也分享了一位选手如何兼顾竞技运动和另一份高强度工作。",
+      "category": "Community",
+      "source": "DUPR Blog",
+      "url": "https://www.dupr.com/post/andie-dikosavljevic-balances-pro-pickleball-and-a-career",
+      "published_at": "2026-11-18",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "brand",
+      "id": "867bca6bdb88"
+    },
+    {
+      "title": "Lea Jansen’s new JOOLA paddle turns a pre-serve ritual into its design cue",
+      "title_zh": "莱娅·詹森的新款 JOOLA 球拍，把发球前习惯变成设计标记",
+      "summary": "JOOLA announced a lime-green and light-purple Hyperion Pro V signature paddle for Lea Jansen. The brand says a green detail marks where Jansen taps the paddle during her pre-serve routine; its control, power, and spin descriptions are the company's claims, not independent test results. JOOLA also says it will donate $10,000 to Breakthrough T1D regardless of paddle sales.",
+      "summary_zh": "JOOLA 宣布推出莱娅·詹森签名款 Hyperion Pro V 球拍，采用青柠绿与浅紫色搭配。品牌称，拍面上的绿色细节标记了詹森发球前用球拍拍击身体的位置；关于控制、力量和旋转表现的描述属于厂商说法，并非独立测试结果。JOOLA 还表示，无论球拍销量如何，都会向 Breakthrough T1D 捐赠 1 万美元。",
+      "why": "A useful product-design example: the color detail comes from the athlete's own routine, while the charitable pledge is explicitly separate from sales.",
+      "why_zh": "这款产品展示了如何把运动员自己的习惯转化为设计细节；品牌也明确表示，公益捐款与销量无关。",
+      "category": "Paddle knowledge",
+      "source": "JOOLA USA — brand announcement",
+      "url": "https://joola.com/blogs/blog/leas-paddle-national-diabetes-month",
+      "published_at": "2026-11-03",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "brand",
+      "id": "d601a2d67228"
+    },
+    {
+      "title": "Beijing workplace pickleball meet brings together 130-plus players from 11 organizations",
+      "title_zh": "北京11家单位130余名职工参加首届宣传文化单位匹克球友谊赛",
+      "summary": "A November 17 friendly tournament in Beijing brought together more than 130 employees from 11 municipal publicity and cultural organizations and the city-level government workers' union, according to Beijing News. The event included women's singles, women's doubles, and other divisions; Zhang Jiadi won women's singles and Song Yanping and Yang Wanjie won women's doubles. This is one city-level example of workplace play, not evidence of a nationwide trend.",
+      "summary_zh": "据新京报报道，11月17日，北京市宣传思想文化单位首届匹克球友谊赛举行，来自11家市级宣传文化单位及北京市直机关工会的130余名干部职工参加。比赛设女单、女双等项目；张嘉迪获女单冠军，宋艳萍与杨莞吉获女双冠军。这是北京一地的职工赛事案例，不能据此推断全国趋势。",
+      "why": "A specific community snapshot, with named women's champions and clear local context rather than a sweeping growth claim.",
+      "why_zh": "报道提供了女性项目冠军和明确的本地背景，作为一则具体的社区观察，而非笼统的行业增长结论。",
+      "category": "Community",
+      "source": "新京报 / Beijing News — 孙海光",
+      "url": "https://www.bjnews.com.cn/detail/1794966228129081.html",
+      "published_at": "2026-11-18",
+      "kind": "news",
+      "source_language": "zh",
+      "source_type": "reporting",
+      "id": "83e0799ad55a"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.dupr.com/post/andie-dikosavljevic-balances-pro-pickleball-and-a-career",
+      "checked_at": "2026-11-23",
+      "notes": "Read DUPR's November 18 profile. Checked the career description, tennis background, listed PPA results, film study and focused singles practice; identified DUPR's interest as a ratings platform and described it as an industry-source profile."
+    },
+    {
+      "url": "https://joola.com/blogs/blog/leas-paddle-national-diabetes-month",
+      "checked_at": "2026-11-23",
+      "notes": "Read JOOLA's November 3 product announcement. Checked the color and design details, the brand's own paddle-performance language, and the stated $10,000 donation regardless of sales; did not present performance claims as independently tested."
+    },
+    {
+      "url": "https://www.bjnews.com.cn/detail/1794966228129081.html",
+      "checked_at": "2026-11-23",
+      "notes": "Read the November 18 Beijing News report by Sun Haiguang. Checked the November 17 event date, 11 participating organizations, 130-plus participants, event format and women's singles/doubles winners; kept the account explicitly local."
+    }
+  ]
+}
