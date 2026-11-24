@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-24-144451-efbed9",
+  "date": "2026-11-24",
+  "created_at": "2026-11-24T14:44:51.247973+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "18 recent valid reviews were available. The latest readers liked stories about a women's pickleball organization and a national sports event, and asked us to keep the mix. This edition pairs courtside style details with a major 50+ community championship.",
+  "feedback_note_zh": "本期参考了18条近期有效反馈。最新留言认可女性匹克球组织和全国性体育赛事的内容，并希望保持题材多样。本期兼顾赛场穿搭细节与一项面向50岁以上球员的大型社区赛事。",
+  "review_count": 18,
+  "stories": [
+    {
+      "title": "Daytona’s women pros bring pinstripes, pink pleats, and all-black polish",
+      "title_zh": "Daytona 女子职业选手演绎细条纹、粉色百褶与利落全黑造型",
+      "summary": "Pickleball.com fashion writer Victoria Radnothy spotlights several looks from the Proton Daytona Beach Open. Judit Castillo paired an all-black Nox outfit with a white waistband that reads like a faux belt; Sofia Sewing wore a navy pinstripe skirt with an open-back top; and Jorja Johnson and Hurricane Tyra Black styled matching baby-pink pleated skirts in different ways. This is the writer’s courtside style roundup, not a product test.",
+      "summary_zh": "Pickleball.com 时尚作者 Victoria Radnothy 盘点了 Proton Daytona Beach Open 的几套赛场造型：Judit Castillo 以全黑 Nox 服装搭配带有“假腰带”效果的白色裙腰；Sofia Sewing 将藏蓝细条纹裙与露背上衣组合；Jorja Johnson 和 Hurricane Tyra Black 则用不同上衣搭配同款浅粉百褶裙。这是一篇作者的赛场穿搭观察，不是产品测评。",
+      "why": "Specific color and styling choices offer practical inspiration for a coordinated court look without treating sponsored or linked products as performance recommendations.",
+      "why_zh": "文章介绍了具体配色与搭配思路，可为赛场造型提供灵感；文中品牌和商品链接不代表性能推荐。",
+      "category": "Style",
+      "source": "Pickleball.com — Victoria Radnothy",
+      "url": "https://pickleball.com/fashion/best-dressed-at-the-proton-daytona-beach-open",
+      "published_at": "2026-11-23",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "d163aba4777c"
+    },
+    {
+      "title": "US Senior Pickleball expects a record 1,300 players at its 50+ Nationals",
+      "title_zh": "美国老年匹克球协会预计：50岁以上全国锦标赛将迎来约1300名选手",
+      "summary": "US Senior Pickleball says its November 30–December 5 national championship in Casa Grande, Arizona, will be its largest yet, with about 1,300 athletes ages 50–85+ on 32 courts. The age-and-skill event includes men’s and women’s singles and doubles plus mixed doubles. The organization will also honor 95-year-old competitor Joyce Jones. These are the organizer’s figures and plans, reported in its press release.",
+      "summary_zh": "美国老年匹克球协会表示，11月30日至12月5日在亚利桑那州卡萨格兰德举行的全国锦标赛将是该协会规模最大的一届，预计约有1300名50至85岁以上的选手在32片球场参赛。赛事按年龄和水平分组，设男、女单打与双打以及混双。协会还将表彰95岁的参赛者 Joyce Jones。以上人数和安排均来自主办方新闻稿。",
+      "why": "An upcoming national event puts older players across age and skill groups in focus, and includes a notable 95-year-old competitor.",
+      "why_zh": "这项即将举行的全国赛事关注不同年龄和水平的年长球员，其中也包括一位95岁的参赛者。",
+      "category": "Community",
+      "source": "US Senior Pickleball — press release",
+      "url": "https://usseniorpickleball.org/news_manager.php?page=33144",
+      "published_at": "2026-11-20",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "a0c043d3aa9b"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://pickleball.com/fashion/best-dressed-at-the-proton-daytona-beach-open",
+      "checked_at": "2026-11-24",
+      "notes": "Read Victoria Radnothy's November 23 article. Checked the looks described for Judit Castillo, Sofia Sewing, Jorja Johnson and Hurricane Tyra Black; framed it as the author's style roundup, not independent product testing."
+    },
+    {
+      "url": "https://usseniorpickleball.org/news_manager.php?page=33144",
+      "checked_at": "2026-11-24",
+      "notes": "Read the USSP official press release. Checked the announced dates and location, approximately 1,300 players age 50–85+, 32 courts, event divisions and planned honor for Joyce Jones. The page does not display a publication date."
+    },
+    {
+      "url": "https://www.helpareporter.com/news-releases/sports-fitness-and-recreation",
+      "checked_at": "2026-11-24",
+      "notes": "Checked the EIN Presswire syndication listing, which dates USSP's original release to November 20, 2026; used it only to verify publication date for the USSP announcement."
+    }
+  ]
+}
