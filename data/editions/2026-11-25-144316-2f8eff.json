@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-25-144316-2f8eff",
+  "date": "2026-11-25",
+  "created_at": "2026-11-25T14:43:16.502830+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Recent reviews favor meaningful industry developments and major-tour updates, while cautioning against presenting one-city events as broad trends. This edition focuses on a newly published PPA/MLP event report; no suitable, accessible Chinese original was found without repeating local-event coverage.",
+  "feedback_note_zh": "近期反馈更关注重要行业进展和大型巡回赛动态，也提醒不要把单一城市活动写成普遍趋势。本期聚焦 PPA/MLP 刚发布的赛事报告；本次未找到既合适、可访问又不重复近期地方赛事报道的中文原创来源。",
+  "review_count": 18,
+  "stories": [
+    {
+      "title": "PPA/MLP Worlds sets new attendance and viewing records",
+      "title_zh": "PPA/MLP 世界锦标赛到场与观看数据创纪录",
+      "summary": "In a November 24 report, PPA/MLP said its 10-day 2026 Pickleball World Championships drew 70,000 attendees, generated $2 million in ticket and registration revenue, and logged 79 million minutes watched on Pickleballtv. The report also said official PPA/MLP accounts recorded 60 million social impressions. Anna Leigh Waters won women’s singles, women’s doubles with Anna Bright, and mixed doubles with Ben Johns. These are figures reported by the event organizers.",
+      "summary_zh": "PPA/MLP 在 11 月 24 日发布的报告称，2026 年匹克球世界锦标赛为期 10 天，共吸引 7 万人到场，门票及报名收入达 200 万美元，Pickleballtv 赛事转播累计观看时长为 7900 万分钟。官方 PPA/MLP 账号获得 6000 万次社交媒体曝光。安娜·莉·沃特斯赢得女单、与安娜·布莱特搭档获得女双冠军，并与本·约翰斯搭档赢得混双冠军。以上数字来自赛事主办方报告。",
+      "why": "A major-tour report gives readers concrete signals about event scale and media reach, while the women’s results make the competition’s star power easy to follow.",
+      "why_zh": "大型巡回赛的报告提供了赛事规模和媒体传播的具体数据，女子组成绩也让读者直观看到顶尖女选手的影响力。",
+      "category": "News",
+      "source": "Major League Pickleball / PPA Tour",
+      "url": "https://majorleaguepickleball.co/news/2026-opendoor-pickleball-world-championships-is-biggest-event-in-ppa-mlp-history",
+      "published_at": "2026-11-24",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "1614172fd5b0"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://majorleaguepickleball.co/news/2026-opendoor-pickleball-world-championships-is-biggest-event-in-ppa-mlp-history/",
+      "checked_at": "2026-11-25",
+      "notes": "Read the original MLP/PPA release dated Nov. 24, 2026. Verified attendance (70,000), ticket/registration revenue ($2 million), Pickleballtv viewing time (79 million minutes), social impressions (60 million), and listed PPA champions including Anna Leigh Waters. Figures are attributed to the organizers."
+    }
+  ]
+}
