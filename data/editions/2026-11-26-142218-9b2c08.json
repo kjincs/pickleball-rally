@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-26-142218-9b2c08",
+  "date": "2026-11-26",
+  "created_at": "2026-11-26T14:22:18.992328+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Reviews favor women’s fashion and major industry developments, including visible brands and useful paddle news. This edition pairs a top woman pro’s upcoming signature paddle with a new rating partnership for a Philippine professional league. Recent Chinese results were mainly single-city event recaps, so none was included as a broad trend.",
+  "feedback_note_zh": "反馈希望增加女性球员时尚与重要行业动态，包括知名品牌和实用球拍资讯。本期介绍一位顶尖女选手即将推出的签名球拍，以及菲律宾职业联赛的新评级合作。近期中文结果多为单一城市赛事报道，因此没有将其写成行业趋势。",
+  "review_count": 18,
+  "stories": [
+    {
+      "title": "Anna Leigh Waters and Franklin reveal The Whip paddle",
+      "title_zh": "安娜·莉·沃特斯与 Franklin 揭晓签名球拍 The Whip",
+      "summary": "Pickleball.com reports that Waters and Franklin revealed The Whip on November 24, with a planned December 9 launch. The report describes a hybrid shape and 14 mm and 16 mm elongated versions. Franklin says it was developed with Waters; she highlighted the paddle’s blue, silver, and red edge guard. The article notes the design is patent-pending and says detailed specifications remain limited, so treat performance descriptions as brand and athlete claims until independent testing is available.",
+      "summary_zh": "据 Pickleball.com 报道，沃特斯与 Franklin 于 11 月 24 日公布 The Whip，计划于 12 月 9 日上市。报道介绍了混合形状，以及 14 毫米和 16 毫米的加长版。Franklin 称这款球拍与沃特斯共同开发；她特别提到蓝、银、红渐变护边。文章指出该设计正在申请专利，详细参数仍有限，因此性能描述应视为品牌和运动员说法，等待独立测试。",
+      "why": "A high-profile women’s signature paddle gives players a timely look at design choices and an upcoming launch, with clear limits on what is known so far.",
+      "why_zh": "这款知名女选手签名球拍让读者及时了解设计特点和上市时间，同时说明目前仍有哪些信息尚未确认。",
+      "category": "Paddle knowledge",
+      "source": "Victoria Radnothy, Pickleball.com",
+      "url": "https://pickleball.com/gear/anna-leigh-waters-and-franklin-finally-announce-mystery-paddle-the-whip",
+      "published_at": "2026-11-25",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "8b506e9f5576"
+    },
+    {
+      "title": "Philippine pro league makes DUPR ratings count across seasons",
+      "title_zh": "菲律宾职业联赛将把比赛成绩纳入 DUPR 评级",
+      "summary": "DUPR announced that the Philippines’ Pickle Yard Conference League will use DUPR as its official rating system for Season 2. League results count toward players’ ratings, which the league says it will use for rosters and seeding. The league’s eight teams have 64 players, with recruitment across Luzon, Visayas, and Mindanao and international players from six countries. This is a league-specific partnership announced by DUPR, not a blanket change to ratings elsewhere.",
+      "summary_zh": "DUPR 宣布，菲律宾 Pickle Yard Conference League 将在第二赛季采用 DUPR 作为官方评级系统。联赛比赛结果将计入球员评级，联赛称还会用评级辅助确定队伍名单和种子排序。该联赛有 8 支队伍、64 名球员，招募范围覆盖吕宋、米沙鄢和棉兰老，并引入来自 6 个国家的球员。这是 DUPR 宣布的一项特定联赛合作，并不代表其他赛事的评级规则也发生变化。",
+      "why": "It shows one practical way a growing professional league can connect local match results with a rating players may carry into other DUPR events.",
+      "why_zh": "这项合作展示了一种具体做法：职业联赛把本地比赛成绩与球员可带入其他 DUPR 赛事的评级体系连接起来。",
+      "category": "News",
+      "source": "DUPR",
+      "url": "https://www.dupr.com/post/pickle-yard-conference-league-names-dupr-official-rating-system-for-pycl-season-2",
+      "published_at": "2026-11-25",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "official",
+      "id": "fb6877299e68"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://pickleball.com/gear/anna-leigh-waters-and-franklin-finally-announce-mystery-paddle-the-whip",
+      "checked_at": "2026-11-26",
+      "notes": "Read the original Pickleball.com report by Victoria Radnothy dated Nov. 25. Verified announcement date, planned Dec. 9 launch, hybrid and elongated 14/16 mm forms, design details, and the article's note that specifications remain limited and design is patent-pending. Performance statements are attributed to Waters/Franklin."
+    },
+    {
+      "url": "https://www.dupr.com/post/pickle-yard-conference-league-names-dupr-official-rating-system-for-pycl-season-2",
+      "checked_at": "2026-11-26",
+      "notes": "Read DUPR's original announcement dated Nov. 25. Verified that PYCL Season 2 match results count toward DUPR ratings, ratings inform rosters/seeding, the league has eight teams and 64 players, and its recruitment spans three Philippine island regions plus international imports."
+    }
+  ]
+}
