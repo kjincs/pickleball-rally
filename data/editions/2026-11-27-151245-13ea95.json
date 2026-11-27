@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-27-151245-13ea95",
+  "date": "2026-11-27",
+  "created_at": "2026-11-27T15:12:45.072135+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Recent reviews ask for more women's fashion and meaningful industry coverage, while cautioning that single-city activity should not be presented as a broad trend. This edition offers a time-sensitive women's apparel guide and treats the Vietnam Masters as one event case study, attributing its scale figures to the organizer/partner.",
+  "feedback_note_zh": "近期反馈希望增加女性穿搭和有分量的行业内容，同时提醒不要把单一城市活动写成普遍趋势。本期提供一份有时效性的女性运动服饰指南，并将越南大师赛作为单场赛事案例，赛事规模数据注明来自主办方/合作方。",
+  "review_count": 18,
+  "stories": [
+    {
+      "title": "Vietnam Masters stages a six-day, 52-court tour finale",
+      "title_zh": "越南大师赛以 52 片球场举办六天巡回赛总决赛",
+      "summary": "The Vietnam Masters | Petrolimex Cup runs November 24–29 as the final stop of the 2026 D-Joy Pickleball Tour. TTC Group, a tournament partner, says the event has a 52-court complex, expects more than 1,500 registrations, and offers a prize pool above 6 billion VND, including over 3 billion VND for pro divisions. The organizer also reports using video review and paddle testing in pro categories. These details describe this tournament and are organizer-reported, not an industry-wide measure.",
+      "summary_zh": "越南大师赛 Petrolimex 杯于 11 月 24 日至 29 日举行，是 2026 年 D-Joy 匹克球巡回赛的收官站。赛事合作方 TTC 集团称，赛事使用包含 52 片球场的场馆，预计报名超过 1,500 人次，总奖金超过 60 亿越南盾，其中职业组超过 30 亿越南盾。主办方还表示，职业组将采用视频回看和球拍检测。这些数据仅描述本场赛事，且来自赛事合作方，并非行业整体统计。",
+      "why": "For readers following Asian pickleball, this is a concrete look at how one tour finale is combining a large venue, substantial prize money, and equipment checks.",
+      "why_zh": "关注亚洲匹克球的读者可以借此了解一场巡回赛总决赛如何结合大型场馆、较高奖金和器材检测。",
+      "category": "News",
+      "source": "TTC Group, Vietnam Masters partner",
+      "url": "https://www.ttcgroup.vn/en-US/news/ttcs-news/vietnam-masters-petrolimex-cup-2026-continuing-the-journey-to-build-a-vietnamese-branded-pickleball-tournament",
+      "published_at": "2026-11-25",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "brand",
+      "id": "c50641a70877"
+    },
+    {
+      "title": "Black Friday guide rounds up women’s pickleball outfits",
+      "title_zh": "黑五指南汇总女性匹克球服饰折扣",
+      "summary": "Pickleball.com reporter Victoria Radnothy’s November 24 guide lists sale picks across women’s athletic tops, skirts, dresses, and court shoes, with example prices and discounts. It is a shopping roundup with retailer links, not independent product testing or a style trend report. Sale prices and stock can change, so check the retailer before buying.",
+      "summary_zh": "Pickleball.com 记者 Victoria Radnothy 于 11 月 24 日发布的指南，汇总了女性运动上衣、裙装、连衣裙和球场鞋的折扣商品，并列出示例价格和折扣。这是一份带零售商链接的购物清单，不是独立产品测试，也不是穿搭趋势报告。促销价格和库存可能变化，购买前请查看零售商页面。",
+      "why": "A concise, timely reference for readers comparing court-ready clothing and footwear during the holiday sale period, with the commercial nature made clear.",
+      "why_zh": "这份清单可帮助读者在节日促销期间比较适合球场的服装和鞋款，并明确说明其购物导购属性。",
+      "category": "Style",
+      "source": "Victoria Radnothy, Pickleball.com",
+      "url": "https://pickleball.com/fashion/the-best-pickleball-clothing-on-amazing-black-friday-deals",
+      "published_at": "2026-11-24",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "a9799df0915b"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ttcgroup.vn/en-US/news/ttcs-news/vietnam-masters-petrolimex-cup-2026-continuing-the-journey-to-build-a-vietnamese-branded-pickleball-tournament",
+      "checked_at": "2026-11-27",
+      "notes": "Read TTC Group's original English-language announcement dated Nov. 25. TTC is listed as the tournament's Diamond Sponsor/partner. Verified event dates, tour-final status, 52 courts, expected registrations, total and pro prize pools, and reported video review and paddle-testing measures. All event-scale details are attributed to the partner/organizer."
+    },
+    {
+      "url": "https://pickleball.com/fashion/the-best-pickleball-clothing-on-amazing-black-friday-deals",
+      "checked_at": "2026-11-27",
+      "notes": "Read Victoria Radnothy's Pickleball.com fashion roundup dated Nov. 24. Verified it lists women's athletic tops, skirts, dresses, and pickleball shoes with example prices and retail links. Treated as a shopping guide rather than independent testing; noted prices and availability may change."
+    }
+  ]
+}
