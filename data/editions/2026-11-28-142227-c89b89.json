@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-28-142227-c89b89",
+  "date": "2026-11-28",
+  "created_at": "2026-11-28T14:22:27.633987+00:00",
+  "seed": false,
+  "research_method": "codex",
+  "feedback_note": "Reviews caution against framing a single-city activity as an industry-wide trend, while still valuing a balanced mix of community stories. This edition presents Bacolod's tournament only as a specific local example, focusing on its beginner safeguards, charity contribution, free clinic, and player pathway.",
+  "feedback_note_zh": "反馈提醒不要把单一城市活动写成行业整体趋势，同时也认可内容中保留社区故事。本期仅将巴科洛德赛事作为一个地方案例，重点介绍新手组别审核、公益捐款、免费体验课和选手晋级机会。",
+  "review_count": 18,
+  "stories": [
+    {
+      "title": "Bacolod tournament links 530 players with clinic and charity",
+      "title_zh": "巴科洛德赛事汇聚 530 名选手，并安排公益体验课",
+      "summary": "Bacolod’s first Mayor Greg Gasataya tournament opened Nov. 27 with 530 players in five divisions and a ₱1 million prize pool. Organizers will donate part of entry fees to charity, hold a free clinic, and select a local player for a fully funded Manila competition. The city government lists women’s doubles in several divisions and limits beginner/novice entries to eligible Bacolod residents. This is a local community example, not evidence of a wider trend.",
+      "summary_zh": "首届 Mayor Greg Gasataya 匹克球赛于 11 月 27 日在巴科洛德开赛，530 名选手参加五个组别角逐，总奖金为 100 万菲律宾比索。主办方将把部分报名费捐作公益，并计划在赛后举办免费体验课、选出一名当地选手资助其前往马尼拉参赛。市政府公告列出多个女子双打组别，并表示新手和初级组仅面向符合条件的巴科洛德居民。这只是一个地方社区案例，不能据此推断整个行业趋势。",
+      "why": "The event shows concrete ways a local tournament can welcome new players: resident-focused beginner divisions, a free clinic, and a next-step competition opportunity.",
+      "why_zh": "这场赛事展示了地方比赛吸引新手的具体做法：面向居民的新手组、免费体验课，以及后续参赛机会。",
+      "category": "Community",
+      "source": "Digicast Negros; Bacolod City Communications Office",
+      "url": "https://digicastnegros.com/first-greg-gasataya-pickleball-tournament-in-bacolod-opens",
+      "published_at": "2026-11-27",
+      "kind": "news",
+      "source_language": "en",
+      "source_type": "reporting",
+      "id": "976ed214b262"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://digicastnegros.com/first-greg-gasataya-pickleball-tournament-in-bacolod-opens/",
+      "checked_at": "2026-11-28",
+      "notes": "Read Digicast Negros's report dated Nov. 27. Verified 530 players, ₱1 million prize pool, five divisions, partial registration-fee charity contribution, free post-event clinic, and selection of a Bacolod player for a Manila competition. The page attributes the opening statement and clinic details to the Bacolod City Communications Office."
+    },
+    {
+      "url": "https://bacolodcity.gov.ph/1st-mayor-greg-gasataya-pickleball-tournament-launches-in-bacolod/",
+      "checked_at": "2026-11-28",
+      "notes": "Read the Bacolod City Government's original announcement dated Nov. 22. Cross-checked the five divisions, women's doubles categories, eligible resident requirement for beginner/novice divisions, charity contribution, and post-event clinic and Manila opportunity. Identified as a city-specific announcement and not generalized to the wider sport."
+    }
+  ]
+}
